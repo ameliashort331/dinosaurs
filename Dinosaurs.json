@@ -1,0 +1,7454 @@
+[
+  {
+    "Name": "Aardonyx",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Abelisaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Abrictosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Abrosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Abydosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Acanthopholis",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Achelousaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Acheroraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Achillesaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Achillobator",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Acristavus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Acrocanthosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Acrotholus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Adamantisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Adasaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Adeopapposaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Adratiklit",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Morocco"
+  },
+  {
+    "Name": "Adynomosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Aegyptosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Egypt"
+  },
+  {
+    "Name": "Aegyptosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Niger"
+  },
+  {
+    "Name": "Aeolosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Aepisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Aerosteon",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Aetonyx",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Aetonyx",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Lesotho"
+  },
+  {
+    "Name": "Aetonyx",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Zimbabwe"
+  },
+  {
+    "Name": "Afrovenator",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Niger"
+  },
+  {
+    "Name": "Agathaumas",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Agilisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Agrosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Agujaceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Agustinia",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Ahshislepelta",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Airakoraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Ajkaceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Hungary"
+  },
+  {
+    "Name": "Akainacephalus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Alamosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Alaskacephale",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Albalophosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Japan"
+  },
+  {
+    "Name": "Albertaceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Albertadromeus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Albertonykus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore/insectivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Albertosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Albinykus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Alcovasaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Alectrosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Aletopelta",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Algoasaurus",
+    "Period": "Jurassic/Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Alioramus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Allosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Allosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Tanzania"
+  },
+  {
+    "Name": "Allosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "United States of America"
+  },
+  {
+    "Name": "Allosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Allosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Allosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "United States of America"
+  },
+  {
+    "Name": "Allosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Tanzania"
+  },
+  {
+    "Name": "Alnashetri",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Alocodon",
+    "Period": "Jurassic",
+    "Diet": "(herbivore)",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Altirhinus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Altispinax",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Alvarezsaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Alwalkeria",
+    "Period": "Late Triassic",
+    "Diet": "omnivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Alxasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Amargasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Amargatitanis",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Amazonsaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Ampelosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Amphicoelias",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Amtocephale",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Amtosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Amurosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Amurosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Russia"
+  },
+  {
+    "Name": "Amygdalodon",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Anabisetia",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Anasazisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Anchiceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Anchiornis",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Anchisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Andesaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Angaturama",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Angolatitan",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Angola"
+  },
+  {
+    "Name": "Angulomastacator",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Aniksosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Animantarx",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Ankylosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Anodontosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Anoplosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Anserimimus",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Antarctopelta",
+    "Period": "Late Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Antarctica"
+  },
+  {
+    "Name": "Antarctosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Antetonitrus",
+    "Period": "Triassic or Jurassic",
+    "Diet": "herbivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Antrodemus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Anzu",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Aoniraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Aorun",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Apatodon",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Apatosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Appalachiosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Aquilarhinus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Aragosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Aralosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Kazakhstan"
+  },
+  {
+    "Name": "Archaeoceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Archaeodontosaurus",
+    "Period": "Middle Jurassic",
+    "Diet": "herbivore",
+    "Country": "Madagascar"
+  },
+  {
+    "Name": "Archaeopteryx",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Germany"
+  },
+  {
+    "Name": "Archaeornithoides",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Archaeornithomimus",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Arcovenator",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Arcusaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Arenysaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Argentinosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Argyrosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Aristosuchus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Arkansaurus",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Arkharavia",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Russia"
+  },
+  {
+    "Name": "Arrhinoceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Arstanosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Kazakhstan"
+  },
+  {
+    "Name": "Asiaceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Asiatosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Astrodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Astrophocaudia",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Asylosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore/omnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Atacamatitan",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Atlantosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Atlasaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Morocco"
+  },
+  {
+    "Name": "Atlascopcosaurus",
+    "Period": "Early Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Atrociraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Atsinganosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Aublysodon",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Aucasaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Augustynolophus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Auroraceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Auroraceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South Korea"
+  },
+  {
+    "Name": "Aurornis",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Australodocus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Tanzania"
+  },
+  {
+    "Name": "Australovenator",
+    "Period": "Early-Late Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Austrocheirus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Austroraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Austrosaurus",
+    "Period": "Early Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Avaceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Aviatyrannis",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Avimimus",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Bactrosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Bagaceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Bagaraatan",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Bahariasaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Egypt"
+  },
+  {
+    "Name": "Bahariasaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Niger"
+  },
+  {
+    "Name": "Bahariasaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Morocco"
+  },
+  {
+    "Name": "Bahariasaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Algeria"
+  },
+  {
+    "Name": "Bainoceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Bajadasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Bakesaurus",
+    "Period": "Cretaceous",
+    "Diet": "(unknown)",
+    "Country": "China"
+  },
+  {
+    "Name": "Balaur",
+    "Period": "Cretaceous",
+    "Diet": "herbivore/omnivore",
+    "Country": "Romania"
+  },
+  {
+    "Name": "Balochisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Pakistan"
+  },
+  {
+    "Name": "Bambiraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Banji",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Baotianmansaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Barapasaurus",
+    "Period": "Early Jurassic",
+    "Diet": "herbivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Barilium",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Barosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Barrosasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Barsboldia",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Baryonyx",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Baryonyx",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Baryonyx",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Batyrosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Kazakhstan"
+  },
+  {
+    "Name": "Baurutitan",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Bayosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Beelemodon",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Beipiaosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Beishanlong",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Bellusaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Berberosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Morocco"
+  },
+  {
+    "Name": "Betasuchus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Netherlands"
+  },
+  {
+    "Name": "Bicentenaria",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Bienosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Bihariosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Romania"
+  },
+  {
+    "Name": "Bissektipelta",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Uzbekistan"
+  },
+  {
+    "Name": "Bistahieversor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Blasisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Blikanasaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Bolong",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Bonapartenykus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Bonatitan",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Bonitasaura",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Borealosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Borogovia",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Bothriospondylus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Brachiosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Brachyceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Brachylophosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Brachypodosaurus",
+    "Period": "Late Cretaceous",
+    "Diet": "herbivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Brachytrachelopan",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Bradycneme",
+    "Period": "Cretaceous",
+    "Diet": "(carnivore)",
+    "Country": "Romania"
+  },
+  {
+    "Name": "Brasilotitan",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Bravoceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Breviceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Brohisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Pakistan"
+  },
+  {
+    "Name": "Brontomerus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Brontosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Bruhathkayosaurus",
+    "Period": "Late Cretaceous",
+    "Diet": "herbivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Buitreraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Burianosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Czech Republic"
+  },
+  {
+    "Name": "Byronosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Caenagnathasia",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "Uzbekistan"
+  },
+  {
+    "Name": "Calamosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Calamospondylus",
+    "Period": "Cretaceous",
+    "Diet": "(carnivore)",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Callovosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Camarasaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Camarillasaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Camelotia",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Camposaurus",
+    "Period": "Triassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Camptosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Campylodoniscus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Canardia",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Capitalsaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Carcharodontosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Egypt"
+  },
+  {
+    "Name": "Carcharodontosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Niger"
+  },
+  {
+    "Name": "Carcharodontosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Algeria"
+  },
+  {
+    "Name": "Carcharodontosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Morocco"
+  },
+  {
+    "Name": "Cardiodon",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Carnotaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Caseosaurus",
+    "Period": "Triassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Cathartesaura",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Cathetosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Caudipteryx",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Cedarosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Cedarpelta",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Cedrorestes",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Centrosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Cerasinops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Ceratonykus",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Ceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Ceratosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Ceratosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Ceratosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "United States of America"
+  },
+  {
+    "Name": "Cetiosauriscus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Cetiosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Cetiosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Cetiosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Switzerland"
+  },
+  {
+    "Name": "Cetiosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Morocco"
+  },
+  {
+    "Name": "Changchunsaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Changdusaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Changyuraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Chaoyangsaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Charonosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Charonosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Russia"
+  },
+  {
+    "Name": "Charonosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Chasmosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Chebsaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Algeria"
+  },
+  {
+    "Name": "Chenanisaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Morocco"
+  },
+  {
+    "Name": "Chialingosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Chiayusaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Chilantaisaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Chilesaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Chindesaurus",
+    "Period": "Triassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Chingkankousaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Chinshakiangosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Chirostenotes",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Chondrosteosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Choyrodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Chromogisaurus",
+    "Period": "Triassic",
+    "Diet": "unknown",
+    "Country": "South America"
+  },
+  {
+    "Name": "Chuandongocoelurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Chuanjiesaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Chuanqilong",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Chubutisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Chungkingosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Chuxiongosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Cionodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Citipati",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Claorhynchus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Claosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Clasmodosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Coahuilaceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Coelophysis",
+    "Period": "Triassic/Jurassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Coelophysis",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "United States of America"
+  },
+  {
+    "Name": "Coelophysis",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Coelophysis",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Zimbabwe"
+  },
+  {
+    "Name": "Coelosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Coeluroides",
+    "Period": "Late Cretaceous",
+    "Diet": "carnivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Coelurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Colepiocephale",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Coloradisaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Comahuesaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Comanchesaurus",
+    "Period": "Triassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Compsognathus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Germany"
+  },
+  {
+    "Name": "Compsognathus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Compsosuchus",
+    "Period": "Late Cretaceous",
+    "Diet": "carnivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Concavenator",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Conchoraptor",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Condorraptor",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Coronosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Corythosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Craspedodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Belgium"
+  },
+  {
+    "Name": "Craterosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Crichtonpelta",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Crichtonsaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Cristatusaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Niger"
+  },
+  {
+    "Name": "Cruxicheiros",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Cryolophosaurus",
+    "Period": "Early Jurassic",
+    "Diet": "carnivore",
+    "Country": "Antarctica"
+  },
+  {
+    "Name": "Cryptosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Cumnoria",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Daanosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Dacentrurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Dacentrurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Dacentrurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Dacentrurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Dachongosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Daemonosaurus",
+    "Period": "Triassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Dahalokely",
+    "Period": "Late Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Madagascar"
+  },
+  {
+    "Name": "Dakotadon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Dakotaraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Damalasaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Dandakosaurus",
+    "Period": "Early Jurassic",
+    "Diet": "carnivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Darwinsaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Dashanpusaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Daspletosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Datanglong",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Datousaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Daxiatitan",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Deinocheirus",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Deinodon",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Deinonychus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South Korea"
+  },
+  {
+    "Name": "Deinonychus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Delapparentia",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Deltadromeus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Morocco"
+  },
+  {
+    "Name": "Deltadromeus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Algeria"
+  },
+  {
+    "Name": "Deltadromeus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Egypt"
+  },
+  {
+    "Name": "Demandasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Diabloceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Diamantinasaurus",
+    "Period": "Late Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Diclonius",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Dicraeosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Tanzania"
+  },
+  {
+    "Name": "Dilong",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Dilophosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Diluvicursor",
+    "Period": "Early Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Dinheirosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Dinodocus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Diplodocus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Diplotomodon",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Dolichosuchus",
+    "Period": "Triassic",
+    "Diet": "carnivore",
+    "Country": "Germany"
+  },
+  {
+    "Name": "Dongbeititan",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Dongyangopelta",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Dongyangosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Draconyx",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Dracopelta",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Dracoraptor",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Dracorex",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Dracovenator",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Dreadnoughtus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Drinker",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Dromaeosauroides",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Denmark"
+  },
+  {
+    "Name": "Dromaeosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Dromiceiomimus",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Drusilasaura",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Dryosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Dryosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Dryosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "United States of America"
+  },
+  {
+    "Name": "Dryptosauroides",
+    "Period": "Late Cretaceous",
+    "Diet": "carnivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Dryptosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Dubreuillosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Duriatitan",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Duriavenator",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Dynamoterror",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Dyoplosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Dysalotosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Tanzania"
+  },
+  {
+    "Name": "Dysganus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Dyslocosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Dystrophaeus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Echinodon",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Edmontonia",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Edmontosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Efraasia",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "Germany"
+  },
+  {
+    "Name": "Einiosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "EK troodont",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Ekrixinatosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Elaltitan",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Elaphrosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Tanzania"
+  },
+  {
+    "Name": "Elmisaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Elopteryx",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Romania"
+  },
+  {
+    "Name": "Elrhazosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Niger"
+  },
+  {
+    "Name": "Emausaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Germany"
+  },
+  {
+    "Name": "Enigmosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Eoabelisaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Eocarcharia",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Niger"
+  },
+  {
+    "Name": "Eocursor",
+    "Period": "Triassic or Jurassic",
+    "Diet": "herbivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Eodromaeus",
+    "Period": "Triassic",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Eolambia",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Eomamenchisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Eoraptor",
+    "Period": "Triassic",
+    "Diet": "omnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Eosinopteryx",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Eotrachodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Eotriceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Eotyrannus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Eousdryosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Epachthosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Epanterias",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Epichirostenotes",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Epidendrosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Epidexipteryx",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Equijubus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Erectopus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Erketu",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Erliansaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Erlikosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Eshanosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Eucamerotus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Eucercosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Eucnemesaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Eugongbusaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Euhelopus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Euoplocephalus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Euronychodon",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Euronychodon",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Uzbekistan"
+  },
+  {
+    "Name": "Europasaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Germany"
+  },
+  {
+    "Name": "Europatitan",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Europelta",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Euskelosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Euskelosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "Zimbabwe"
+  },
+  {
+    "Name": "Euskelosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "Lesotho"
+  },
+  {
+    "Name": "Eustreptospondylus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Fabrosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Lesotho"
+  },
+  {
+    "Name": "Falcarius",
+    "Period": "Cretaceous",
+    "Diet": "herbivore/omnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Ferganasaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Kyrgyzstan"
+  },
+  {
+    "Name": "Ferganocephale",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Kyrgyzstan"
+  },
+  {
+    "Name": "Ferrisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Fostoria",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Fruitadens",
+    "Period": "Jurassic",
+    "Diet": "omnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Fukuiraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Japan"
+  },
+  {
+    "Name": "Fukuisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Japan"
+  },
+  {
+    "Name": "Fukuititan",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Japan"
+  },
+  {
+    "Name": "Fukuivenator",
+    "Period": "Cretaceous",
+    "Diet": "unknown",
+    "Country": "Japan"
+  },
+  {
+    "Name": "Fulengia",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Fulgurotherium",
+    "Period": "Early Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Fushanosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Fusuisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Futabasaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Japan"
+  },
+  {
+    "Name": "Futalognkosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Gadolosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Galeamopus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Galleonosaurus",
+    "Period": "Early Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Gallimimus",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Galvesaurus",
+    "Period": "Jurassic/Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Gannansaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Ganzhousaurus",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Gargoyleosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Garudimimus",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Gasosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Gasparinisaura",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Gastonia",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Geminiraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Genusaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Genyodectes",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Geranosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Gideonmantellia",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Giganotosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Gigantoraptor",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Gigantosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Gigantspinosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Gilmoreosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Uzbekistan"
+  },
+  {
+    "Name": "Gilmoreosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Giraffatitan",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Tanzania"
+  },
+  {
+    "Name": "Glacialisaurus",
+    "Period": "Early Jurassic",
+    "Diet": "herbivore",
+    "Country": "Antarctica"
+  },
+  {
+    "Name": "Glishades",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Glyptodontopelta",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Gnathovorax",
+    "Period": "Triassic",
+    "Diet": "Carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Gobiceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Gobiraptor",
+    "Period": "Cretaceous",
+    "Diet": "omnivorous",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Gobisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Gobititan",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Gobivenator",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Gojirasaurus",
+    "Period": "Triassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Gondwanatitan",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Gongbusaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Gongpoquansaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Gongxianosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Gorgosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Goyocephale",
+    "Period": "Cretaceous",
+    "Diet": "herbivore/omnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Graciliceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Graciliraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Gravitholus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Gryphoceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Gryposaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Gspsaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Pakistan"
+  },
+  {
+    "Name": "Guaibasaurus",
+    "Period": "Triassic",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Gualicho",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Guanlong",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Gyposaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Gyposaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Hadrosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Hagryphus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Halticosaurus",
+    "Period": "Triassic",
+    "Diet": "carnivore",
+    "Country": "Germany"
+  },
+  {
+    "Name": "Hanssuesia",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Hanwulosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Haplocanthosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Haplocheirus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Harpymimus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Haya",
+    "Period": "Cretaceous",
+    "Diet": "herbivore/omnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Heilongjiangosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Heishansaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Helioceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Heptasteornis",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Romania"
+  },
+  {
+    "Name": "Herrerasaurus",
+    "Period": "Triassic",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Hesperonychus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Hesperosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Heterodontosaurus",
+    "Period": "Jurassic",
+    "Diet": "omnivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Hexing",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Hexinlusaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Heyuannia",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Hippodraco",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Histriasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Croatia"
+  },
+  {
+    "Name": "Homalocephale",
+    "Period": "Cretaceous",
+    "Diet": "herbivore/omnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Hoplitosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Horshamosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Huabeisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Huanghetitan",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Huaxiagnathus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Huayangosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Hudiesaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Huehuecanauhtlus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Hulsanpes",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Hungarosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Hungary"
+  },
+  {
+    "Name": "Huxleysaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Hylaeosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Hypacrosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Hypselosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Hypselospinus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Hypsibema",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Hypsilophodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Ichthyovenator",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Laos"
+  },
+  {
+    "Name": "Ignavusaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Lesotho"
+  },
+  {
+    "Name": "Iguanacolossus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Iguanodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Iguanodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Belgium"
+  },
+  {
+    "Name": "Iguanodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United States of America"
+  },
+  {
+    "Name": "Iguanodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Iguanodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Iguanodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Iliosuchus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Ilokelesia",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Imperobator",
+    "Period": "Late Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Antarctica"
+  },
+  {
+    "Name": "Incisivosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore/omnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Indosaurus",
+    "Period": "Late Cretaceous",
+    "Diet": "carnivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Indosuchus",
+    "Period": "Late Cretaceous",
+    "Diet": "carnivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Inosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Egypt"
+  },
+  {
+    "Name": "Irritator",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Isaberrysaura",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Isanosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "Thailand"
+  },
+  {
+    "Name": "Ischyrosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Isisaurus",
+    "Period": "Late Cretaceous",
+    "Diet": "herbivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Itapeuasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Itemirus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Uzbekistan"
+  },
+  {
+    "Name": "Iuticosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Jainosaurus",
+    "Period": "Late Cretaceous",
+    "Diet": "herbivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Jaklapallisaurus",
+    "Period": "Late Triassic",
+    "Diet": "herbivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Janenschia",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Tanzania"
+  },
+  {
+    "Name": "Jaxartosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Kazakhstan"
+  },
+  {
+    "Name": "Jeholosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Jeyawati",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Jianchangosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Jiangjunosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Jiangshanosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Jiangxisaurus",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Jinfengopteryx",
+    "Period": "Jurassic/Cretaceous",
+    "Diet": "omnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Jingshanosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Jintasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Jinzhousaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Jiutaisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Jobaria",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Niger"
+  },
+  {
+    "Name": "Jubbulpuria",
+    "Period": "Late Cretaceous",
+    "Diet": "carnivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Judiceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Juratyrant",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Juravenator",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Germany"
+  },
+  {
+    "Name": "Kaatedocus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Kaijiangosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Kakuru",
+    "Period": "Early Cretaceous",
+    "Diet": "?",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Kamuysaurus",
+    "Period": "Cretaceous",
+    "Diet": "Herbivore",
+    "Country": "Japan"
+  },
+  {
+    "Name": "Kangnasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Karongasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Malawi"
+  },
+  {
+    "Name": "Katepensaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Kayentavenator",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Kazaklambia",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Kazakhstan"
+  },
+  {
+    "Name": "Kelmayisaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Kentrosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Tanzania"
+  },
+  {
+    "Name": "Kerberosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Russia"
+  },
+  {
+    "Name": "Khaan",
+    "Period": "Cretaceous",
+    "Diet": "carnivore/omnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Khetranisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Pakistan"
+  },
+  {
+    "Name": "Kileskus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Russia"
+  },
+  {
+    "Name": "Kinnareemimus",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "Thailand"
+  },
+  {
+    "Name": "Klamelisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Kol",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Koparion",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Koreaceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South Korea"
+  },
+  {
+    "Name": "Koreanosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South Korea"
+  },
+  {
+    "Name": "Koreanosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore?",
+    "Country": "Korea"
+  },
+  {
+    "Name": "Koshisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Japan"
+  },
+  {
+    "Name": "Kosmoceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Kotasaurus",
+    "Period": "Early Jurassic",
+    "Diet": "herbivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Kritosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Kryptops",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Niger"
+  },
+  {
+    "Name": "Kukufeldia",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Kulceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Uzbekistan"
+  },
+  {
+    "Name": "Kulindadromeus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Russia"
+  },
+  {
+    "Name": "Kunbarrasaurus",
+    "Period": "Early Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Kundurosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Russia"
+  },
+  {
+    "Name": "Kunmingosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Labocania",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Laevisuchus",
+    "Period": "Late Cretaceous",
+    "Diet": "carnivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Lajasvenator",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Lamaceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Lambeosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Lametasaurus",
+    "Period": "Late Cretaceous",
+    "Diet": "carnivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Lamplughsaura",
+    "Period": "Early Jurassic",
+    "Diet": "herbivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Lancanjiangosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Lanzhousaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Laosaurus",
+    "Period": "Jurassic/Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Lapampasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Laplatasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Lapparentosaurus",
+    "Period": "Middle Jurassic",
+    "Diet": "herbivore",
+    "Country": "Madagascar"
+  },
+  {
+    "Name": "Laquintasaura",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Latenivenatrix",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Latirhinus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Leaellynasaura",
+    "Period": "Early Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Leinkupal",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Leonerasaurus",
+    "Period": "Triassic or Jurassic",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Leptoceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Leptorhynchos",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Leshansaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Lesothosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Lesotho"
+  },
+  {
+    "Name": "Lessemsaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Levnesovia",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Uzbekistan"
+  },
+  {
+    "Name": "Lexovisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Lexovisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Leyesaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Liaoceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Liaoningosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Liassaurus",
+    "Period": "Jurassic",
+    "Diet": "(unknown)",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Ligabueino",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Ligabuesaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Lihkoelesauus",
+    "Period": "Triassic",
+    "Diet": "(unknown)",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Liliensternus",
+    "Period": "Triassic",
+    "Diet": "carnivore",
+    "Country": "Germany"
+  },
+  {
+    "Name": "Limaysaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Limusaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Lingwulong",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Linhenykus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Linheraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Linhevenator",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Lirainosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Liubangosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Loncosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Lophorhothon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Lophostropheus",
+    "Period": "Triassic/Jurassic",
+    "Diet": "carnivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Loricatosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "United Kingdom and France"
+  },
+  {
+    "Name": "Losillasaurus",
+    "Period": "Jurassic/Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Lourinhanosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Lourinhasaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Luanchuanraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Lufengosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Luoyanggia",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Lurdusaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Niger"
+  },
+  {
+    "Name": "Lusitanosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Lusotitan",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Lycorhinus",
+    "Period": "Jurassic",
+    "Diet": "omnivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Lythronax",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Machairasaurus",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Macrogryphosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Macrurosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Magnamanus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Magnapaulia",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Magnirostris",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Magnosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Magulodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Magyarosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Romania"
+  },
+  {
+    "Name": "Mahakala",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Maiasaura",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Majungasaurus",
+    "Period": "Late Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Madagascar"
+  },
+  {
+    "Name": "Malarguesaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Malawisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Malawi"
+  },
+  {
+    "Name": "Maleevus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Mamenchisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Mamenchisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Mamenchisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Thailand"
+  },
+  {
+    "Name": "Mandschurosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Mandschurosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Laos"
+  },
+  {
+    "Name": "Manidens",
+    "Period": "Jurassic",
+    "Diet": "omnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Mantellisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Belgium"
+  },
+  {
+    "Name": "Mantellisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Mantellisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Germany"
+  },
+  {
+    "Name": "Mantellodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Mapusaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Marisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Pakistan"
+  },
+  {
+    "Name": "Marshosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Martharaptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Masiakasaurus",
+    "Period": "Late Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Madagascar"
+  },
+  {
+    "Name": "Massospondylus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Massospondylus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Lesotho"
+  },
+  {
+    "Name": "Massospondylus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Zimbabwe"
+  },
+  {
+    "Name": "Matheronodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Maxakalisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Medusaceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Megacervixosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Megalosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Megalosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Megalosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Austria"
+  },
+  {
+    "Name": "Megalosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Romania"
+  },
+  {
+    "Name": "Megalosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Belgium"
+  },
+  {
+    "Name": "Megaraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Mei",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Melanorosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Mendozasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Mercuriceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Merosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Metriacanthosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Microcephale",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Microceratus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Microcoelus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Microdontosaurus",
+    "Period": "(unknown)",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Microhadrosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Micropachycephalosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Microraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Microvenator",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Minmi",
+    "Period": "Early Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Minotaurasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Miragaia",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Mirischia",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Moabosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Mochlodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Austria"
+  },
+  {
+    "Name": "Mojoceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Mongolosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Monkonosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Monoclonius",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Monolophosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Mononykus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Montanoceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Morelladon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Morinosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Moros",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Morrosaurus",
+    "Period": "Late Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Antarctica"
+  },
+  {
+    "Name": "Mosaiceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Mussaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Muttaburrasaurus",
+    "Period": "Early Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Muyelensaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Mymoorapelta",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Naashoibitosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Nambalia",
+    "Period": "Late Triassic",
+    "Diet": "omnivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Nankangia",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Nanningosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Nanosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Nanotyrannus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Nanshiungosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Nanuqsaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Nanyangosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Narambuenatitan",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Nasutoceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Nebulasaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Nedcolbertia",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Nedoceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Neimongosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Nemegtomaia",
+    "Period": "Cretaceous",
+    "Diet": "carnivore/omnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Nemegtonykus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Nemegtosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Neosodon",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Neovenator",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Neuquenraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Neuquensaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Newtonsaurus",
+    "Period": "Triassic",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Ngexisaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Ngwevu",
+    "Period": "Jurassic",
+    "Diet": "Herbivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Nigersaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Niger"
+  },
+  {
+    "Name": "Ningyuansaurus",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Niobrarasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Nipponosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Russia"
+  },
+  {
+    "Name": "Noasaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Nodocephalosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Nodosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Nomingia",
+    "Period": "Cretaceous",
+    "Diet": "carnivore/omnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Nopcsaspondylus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Normanniasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Nothronychus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Notoceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Notocolossus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Notohypsilophodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Nqwebasaurus",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Nurosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Nuthetes",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Nyasasaurus",
+    "Period": "Triassic",
+    "Diet": "carnivore",
+    "Country": "Tanzania"
+  },
+  {
+    "Name": "Ohmdenosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Germany"
+  },
+  {
+    "Name": "Ojoceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Ojoraptorsaurus",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Olorotitan",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Russia"
+  },
+  {
+    "Name": "Omeisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Oohkotokia",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Opisthocoelicaudia",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Oplosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Orcomimus",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Orkoraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Ornithodesmus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Ornitholestes",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Ornithomimoides",
+    "Period": "Late Cretaceous",
+    "Diet": "carnivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Ornithomimus",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Ornithopsis",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Orodromeus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Orthogoniosaurus",
+    "Period": "Late Cretaceous",
+    "Diet": "carnivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Orthomerus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Netherlands"
+  },
+  {
+    "Name": "Orthomerus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Belgium"
+  },
+  {
+    "Name": "Oryctodromeus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Oshanosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Osmakasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Ostafrikasaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Tanzania"
+  },
+  {
+    "Name": "Othnielia",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Othnielosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Otogosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Ouranosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Niger"
+  },
+  {
+    "Name": "Overosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Oviraptor",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Owenodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Oxalaia",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Ozraptor",
+    "Period": "Middle Jurassic",
+    "Diet": "carnivore",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Pachycephalosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Pachyrhinosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Pachysuchus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Padillasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Pakisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Pakistan"
+  },
+  {
+    "Name": "Palaeopteryx",
+    "Period": "Jurassic",
+    "Diet": "insectivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Palaeoscincus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Paludititan",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Romania"
+  },
+  {
+    "Name": "Pampadromaeus",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Pamparaptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Panamericansaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Panoplosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Panphagia",
+    "Period": "Triassic",
+    "Diet": "omnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Pantydraco",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Paralititan",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Egypt"
+  },
+  {
+    "Name": "Paranthodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Pararhabdodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Parasaurolophus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Parksosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Paronychodon",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Parvicursor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore?",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Patagonykus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Patagosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Pawpawsaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Pectinodon",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Pedopenna",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Pegomastax",
+    "Period": "Jurassic",
+    "Diet": "omnivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Peishansaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Pelecanimimus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Pellegrinisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Peloroplites",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Pelorosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Pelorosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Penelopognathus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Pentaceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Petrobrasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Phaedrolosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Philovenator",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Phuwiangosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Thailand"
+  },
+  {
+    "Name": "Phuwiangvenator",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Thailand"
+  },
+  {
+    "Name": "Phyllodon",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Piatnitzkysaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Pinacosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Pinacosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Pitekunsaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Piveteausaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Planicoxa",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Plateosauravus",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "South Africa"
+  },
+  {
+    "Name": "Plateosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "Germany"
+  },
+  {
+    "Name": "Plateosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Plateosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "Switzerland"
+  },
+  {
+    "Name": "Plateosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "Norway"
+  },
+  {
+    "Name": "Plateosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "Greenland"
+  },
+  {
+    "Name": "Platyceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Plesiohadros",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Pneumatoraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Hungary"
+  },
+  {
+    "Name": "Podokesaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Poekilopleuron",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Polacanthus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Polyonax",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Pradhania",
+    "Period": "Early Jurassic",
+    "Diet": "omnivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Prenocephale",
+    "Period": "Cretaceous",
+    "Diet": "herbivore/omnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Prenoceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Priconodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Priodontognathus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Proa",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Probactrosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Probactrosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Proceratosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Procompsognathus",
+    "Period": "Triassic",
+    "Diet": "carnivore",
+    "Country": "Germany"
+  },
+  {
+    "Name": "Prodeinodon",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Prodeinodon",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Propanoplosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Proplanicoxa",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Prosaurolophus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Protarchaeopteryx",
+    "Period": "Cretaceous",
+    "Diet": "herbivore/omnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Protoavis",
+    "Period": "Triassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Protoceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Protognathosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Protohadros",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Psittacosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Psittacosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Psittacosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Thailand"
+  },
+  {
+    "Name": "Psittacosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Russia"
+  },
+  {
+    "Name": "Pteropelyx",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Pterospondylus",
+    "Period": "Triassic",
+    "Diet": "carnivore",
+    "Country": "Germany"
+  },
+  {
+    "Name": "Puertasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Pukyongosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South Korea"
+  },
+  {
+    "Name": "Pycnonemosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Pyroraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Qantassaurus",
+    "Period": "Early Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Qianzhousaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Qiaowanlong",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Qingxiusaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Qinlingosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Qiupalong",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Qiupalong",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "Canada"
+  },
+  {
+    "Name": "Quaesitosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Quetecsaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Quilmesaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Rahiolisaurus",
+    "Period": "Late Cretaceous",
+    "Diet": "carnivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Rahonavis",
+    "Period": "Late Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Madagascar"
+  },
+  {
+    "Name": "Rajasaurus",
+    "Period": "Late Cretaceous",
+    "Diet": "carnivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Rapator",
+    "Period": "Early Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Rapetosaurus",
+    "Period": "Late Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Madagascar"
+  },
+  {
+    "Name": "Raptorex",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Ratchasimasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Thailand"
+  },
+  {
+    "Name": "Rayososaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Rebbachisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Morocco"
+  },
+  {
+    "Name": "Rebbachisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Niger"
+  },
+  {
+    "Name": "Rebbachisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Tunisia"
+  },
+  {
+    "Name": "Regnosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Rhabdodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Rhabdodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Czech Republic"
+  },
+  {
+    "Name": "Rhabdodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Romania"
+  },
+  {
+    "Name": "Rhabdodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Rhadinosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Austria"
+  },
+  {
+    "Name": "Rhadinosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Romania"
+  },
+  {
+    "Name": "Rhadinosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Rhadinosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Hungary"
+  },
+  {
+    "Name": "Rhoetosaurus",
+    "Period": "Middle Jurassic",
+    "Diet": "herbivore",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Riabininohadros",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Russia"
+  },
+  {
+    "Name": "Richardoestesia",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Rinchenia",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Rinconsaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Riojasaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Rocasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Ronaldoraptor",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Rubeosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Ruehleia",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "Germany"
+  },
+  {
+    "Name": "Rugops",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Niger"
+  },
+  {
+    "Name": "Rukwatitan",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Tanzania"
+  },
+  {
+    "Name": "Ruyangosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Sahaliyania",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Saichania",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Saltasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Saltriovenator",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Italy"
+  },
+  {
+    "Name": "Sanchusaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Japan"
+  },
+  {
+    "Name": "Sangonghesaurus",
+    "Period": "Jurassic/Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Sanjuansaurus",
+    "Period": "Triassic",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Sanpasaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Santanaraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Sarahsaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Sarcolestes",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Sarcosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Sarmientosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Saturnalia",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Saurolophus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Saurolophus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United States of America"
+  },
+  {
+    "Name": "Saurolophus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Canada"
+  },
+  {
+    "Name": "Saurolophus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Saurolophus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Sauroniops",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Morocco"
+  },
+  {
+    "Name": "Sauropelta",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Saurophaganax",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Sauroplites",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Sauroposeidon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Saurornithoides",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Saurornitholestes",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Savannasaurus",
+    "Period": "Late Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Scansoriopteryx",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Scelidosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Scipionyx",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Italy"
+  },
+  {
+    "Name": "Sciurumimus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Germany"
+  },
+  {
+    "Name": "Scolosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Scutellosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Secernosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Segisaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Segnosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore/omnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Seitaad",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Sellacoxa",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Serendipaceratops",
+    "Period": "Early Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Shamosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Shanag",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Shantungosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Shanxia",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Shanyangosaurus",
+    "Period": "Cretaceous",
+    "Diet": "(unknown)",
+    "Country": "China"
+  },
+  {
+    "Name": "Shaochilong",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Shenzhousaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Shidaisaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Shishugounykus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Shixinggia",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Shuangmiaosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Shunosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Shuvuuia",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Siamodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Thailand"
+  },
+  {
+    "Name": "Siamosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Thailand"
+  },
+  {
+    "Name": "Siamotyrannus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Thailand"
+  },
+  {
+    "Name": "Siamraptor",
+    "Period": "Cretaceous",
+    "Diet": "Carnivore",
+    "Country": "Thailand"
+  },
+  {
+    "Name": "Siats",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Sigilmassasaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Morocco"
+  },
+  {
+    "Name": "Siluosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Silvisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Similicaudipteryx",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Sinocalliopteryx",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Sinoceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Sinocoelurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Sinopliosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Sinornithoides",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Sinornithomimus",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Sinornithosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Sinosauropteryx",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Sinosaurus",
+    "Period": "Triassic/Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Sinotyrannus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Sinovenator",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Sinraptor",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Sinusonasus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Sirindhorna",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Thailand"
+  },
+  {
+    "Name": "Skorpiovenator",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Sonidosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Sonorasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Soriatitan",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Sphaerotholus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Spinophorosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Niger"
+  },
+  {
+    "Name": "Spinops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Spinosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Egypt"
+  },
+  {
+    "Name": "Spinosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Morocco"
+  },
+  {
+    "Name": "Spinostropheus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Niger"
+  },
+  {
+    "Name": "SPS 100/44",
+    "Period": "Cretaceous",
+    "Diet": "carnivore/omnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Staurikosaurus",
+    "Period": "Triassic",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Stegoceras",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Stegopelta",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Stegosaurides",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Stegosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Stegosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Stegosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "United States of America"
+  },
+  {
+    "Name": "Stenonychosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Stenopelix",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Germany"
+  },
+  {
+    "Name": "Stephanosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Stokesosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Streptospondylus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Struthiomimus",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Struthiosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Austria"
+  },
+  {
+    "Name": "Struthiosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Struthiosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Romania"
+  },
+  {
+    "Name": "Struthiosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Hungary"
+  },
+  {
+    "Name": "Stygimoloch",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Styracosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Suchomimus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Niger"
+  },
+  {
+    "Name": "Suchosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Sugiyamasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Japan"
+  },
+  {
+    "Name": "Sulaimanisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Pakistan"
+  },
+  {
+    "Name": "Supersaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Suskityrannus",
+    "Period": "Cretaceous",
+    "Diet": "Carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Suuwassea",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Suzhousaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Szechuanoraptor",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Szechuanosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Talarurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Talenkauen",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Talos",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Tambatitanis",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Japan"
+  },
+  {
+    "Name": "Tangvayosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Laos"
+  },
+  {
+    "Name": "Tanius",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Tanycolagreus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Tanystrosuchus",
+    "Period": "Triassic",
+    "Diet": "carnivore",
+    "Country": "Germany"
+  },
+  {
+    "Name": "Taohelong",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Tapuiasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Tarascosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Tarbosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Tarbosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Tarchia",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Tastavinsaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Tatankacephalus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Tatankaceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Tataouinea",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Tunisia"
+  },
+  {
+    "Name": "Tatisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Taurovenator",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Taveirosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Taveirosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Tawa",
+    "Period": "Triassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Tazoudasaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Morocco"
+  },
+  {
+    "Name": "Tehuelchesaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Teinurosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Telmatosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Romania"
+  },
+  {
+    "Name": "Tendaguria",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Tanzania"
+  },
+  {
+    "Name": "Tengrisaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Russia"
+  },
+  {
+    "Name": "Tenontosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Teratophoneus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Tethyshadros",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Italy"
+  },
+  {
+    "Name": "Texacephale",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Texasetes",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Thanos",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Thecocoelurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Thecodontosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Thecospondylus",
+    "Period": "Cretaceous",
+    "Diet": "(carnivore)",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Theiophytalia",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Therizinosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Therosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Thescelosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Thespesius",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Thotobolosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "Lesotho"
+  },
+  {
+    "Name": "Tianchisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Tianyulong",
+    "Period": "Jurassic",
+    "Diet": "omnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Tianyuraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Tianzhenosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Tichosteus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Tienshanosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Timimus",
+    "Period": "Early Cretaceous",
+    "Diet": "?",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Titanoceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Titanosaurus",
+    "Period": "Late Cretaceous",
+    "Diet": "herbivore",
+    "Country": "India"
+  },
+  {
+    "Name": "Tochisaurus",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Tonganosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Tonouchisaurus",
+    "Period": "Cretaceous",
+    "Diet": "(unknown)",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Tornieria",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Tanzania"
+  },
+  {
+    "Name": "Torosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Torvosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Torvosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Torvosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "United States of America"
+  },
+  {
+    "Name": "Trachodon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Tralkasaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Traukutitan",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Triceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Trigonosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Trimucrodon",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Trinisaura",
+    "Period": "Late Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Antarctica"
+  },
+  {
+    "Name": "Troodon",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Tsaagan",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Tsagantegia",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Tsintaosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Tugulusaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore?",
+    "Country": "China"
+  },
+  {
+    "Name": "Tuojiangosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Turanoceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Uzbekistan"
+  },
+  {
+    "Name": "Turiasaurus",
+    "Period": "Jurassic/Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Turiasaurus",
+    "Period": "Jurassic/Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Tylocephale",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Tyrannosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Tyrannotitan",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Uberabatitan",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Udanoceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Ultrasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South Korea"
+  },
+  {
+    "Name": "Unaysaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Unenlagia",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Unescoceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Unquillosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Urbacodon",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Uzbekistan"
+  },
+  {
+    "Name": "Utahceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Utahraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Uteodon",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Vagaceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Vahiny",
+    "Period": "Late Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Madagascar"
+  },
+  {
+    "Name": "Valdoraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Valdosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Vallibonavenatrix",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Spain"
+  },
+  {
+    "Name": "Variraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Vayuraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Thailand"
+  },
+  {
+    "Name": "Velafrons",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Velocipes",
+    "Period": "Triassic",
+    "Diet": "carnivore",
+    "Country": "Poland"
+  },
+  {
+    "Name": "Velociraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Velociraptor",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Velocisaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Venenosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Veterupristisaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Tanzania"
+  },
+  {
+    "Name": "Vitakridrinda",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Pakistan"
+  },
+  {
+    "Name": "Vitakrisaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Pakistan"
+  },
+  {
+    "Name": "Volkheimeria",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Vouivria",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "France"
+  },
+  {
+    "Name": "Vulcanodon",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Zimbabwe"
+  },
+  {
+    "Name": "Wakinosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Japan"
+  },
+  {
+    "Name": "Walgettosuchus",
+    "Period": "Early Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Wamweracaudia",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Tanzania"
+  },
+  {
+    "Name": "Wannanosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Weewarrasaurus",
+    "Period": "Late Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Wellnhoferia",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "Germany"
+  },
+  {
+    "Name": "Willinakaqe",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Wintonotitan",
+    "Period": "Early Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Australia"
+  },
+  {
+    "Name": "Wuerhosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Wuerhosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Wulagasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Wulatelong",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Xenoceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Xenoposeidon",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Xenotarsosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Xianshanosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Xiaosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Xiaotingia",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Xinjiangovenator",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Xinjiangtitan",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Xiongguanlong",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Xixianykus",
+    "Period": "Cretaceous",
+    "Diet": "(unknown)",
+    "Country": "China"
+  },
+  {
+    "Name": "Xixiasaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Xixiposaurus",
+    "Period": "Jurassic",
+    "Diet": "omnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Xuanhanosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Xuanhuaceratops",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Xunmenglong",
+    "Period": "Cretaceous",
+    "Diet": "Carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Xuwulong",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Yamaceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Yamanasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Yandusaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Yangchuanosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Yaverlandia",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "United Kingdom"
+  },
+  {
+    "Name": "Yibinosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Yimenosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Yingshanosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Yinlong",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Yixianosaurus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Yizhousaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Yongjinglong",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Yuanmousaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Yueosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Yulong",
+    "Period": "Cretaceous",
+    "Diet": "omnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Yunganglong",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Yunnanosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Yunxianosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Yurgovuchia",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Yutyrannus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Zalmoxes",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "Romania"
+  },
+  {
+    "Name": "Zanabazar",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "Mongolia"
+  },
+  {
+    "Name": "Zapalasaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Zapsalis",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Zby",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "Portugal"
+  },
+  {
+    "Name": "Zephyrosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Zhanghenglong",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Zhejiangosaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Zhongornis",
+    "Period": "Cretaceous",
+    "Diet": "(unknown)",
+    "Country": "China"
+  },
+  {
+    "Name": "Zhongyuansaurus",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Zhuchengceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Zhuchengtyrannus",
+    "Period": "Cretaceous",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Ziapelta",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Zigongosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Zizhongosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Zuniceratops",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  },
+  {
+    "Name": "Zuolong",
+    "Period": "Jurassic",
+    "Diet": "carnivore",
+    "Country": "China"
+  },
+  {
+    "Name": "Zupaysaurus",
+    "Period": "Triassic",
+    "Diet": "carnivore",
+    "Country": "South America"
+  },
+  {
+    "Name": "Zuul",
+    "Period": "Cretaceous",
+    "Diet": "herbivore",
+    "Country": "North America"
+  }
+]

@@ -160,8 +160,8 @@ function () {
   _createClass(Geomap, [{
     key: "clicked",
     value: function clicked(d) {
-      var _this = this;
 
+      var _this = this;
       var k = 1,
           x0 = this.properties.width / 2,
           y0 = this.properties.height / 2,
@@ -182,6 +182,7 @@ function () {
         return _ === _this._.centered;
       });
       this.svg.selectAll('g.zoom').transition().duration(750).attr('transform', "translate(".concat(x0, ", ").concat(y0, ")scale(").concat(k, ")translate(-").concat(x, ", -").concat(y, ")"));
+
     }
     /**
      * Load geo data once here and draw map. Call update at the end.
