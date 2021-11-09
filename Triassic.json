@@ -1,254 +1,261 @@
 [
   {
-    "Lesotho": "Lesotho",
-    "Africa": "Africa",
-    "Euskelosaurus": "Thotobolosaurus",
-    "Triassic": "Triassic",
-    "herbivore": "herbivore"
+    "Country": "Lesotho",
+    "Continent": "Africa",
+    "Name": "Euskelosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore"
   },
   {
-    "Lesotho": "South Africa",
-    "Africa": "Africa",
-    "Euskelosaurus": "Antetonitrus",
-    "Triassic": "Triassic or Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Lesotho",
+    "Continent": "Africa",
+    "Name": "Thotobolosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore"
   },
   {
-    "Lesotho": "South Africa",
-    "Africa": "Africa",
-    "Euskelosaurus": "Blikanasaurus",
-    "Triassic": "Triassic",
-    "herbivore": "herbivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Antetonitrus",
+    "Period": "Triassic or Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Lesotho": "South Africa",
-    "Africa": "Africa",
-    "Euskelosaurus": "Eocursor",
-    "Triassic": "Triassic or Jurassic",
-    "herbivore": "herbivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Blikanasaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore"
   },
   {
-    "Lesotho": "South Africa",
-    "Africa": "Africa",
-    "Euskelosaurus": "Eucnemesaurus",
-    "Triassic": "Triassic",
-    "herbivore": "herbivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Eocursor",
+    "Period": "Triassic or Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Lesotho": "South Africa",
-    "Africa": "Africa",
-    "Euskelosaurus": "Euskelosaurus",
-    "Triassic": "Triassic",
-    "herbivore": "herbivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Eucnemesaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore"
   },
   {
-    "Lesotho": "South Africa",
-    "Africa": "Africa",
-    "Euskelosaurus": "Lihkoelesauus",
-    "Triassic": "Triassic",
-    "herbivore": "(unknown)"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Euskelosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore"
   },
   {
-    "Lesotho": "South Africa",
-    "Africa": "Africa",
-    "Euskelosaurus": "Melanorosaurus",
-    "Triassic": "Triassic",
-    "herbivore": "herbivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Lihkoelesauus",
+    "Period": "Triassic",
+    "Diet": "(unknown)"
   },
   {
-    "Lesotho": "South Africa",
-    "Africa": "Africa",
-    "Euskelosaurus": "Plateosauravus",
-    "Triassic": "Triassic",
-    "herbivore": "herbivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Melanorosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore"
   },
   {
-    "Lesotho": "Tanzania",
-    "Africa": "Africa",
-    "Euskelosaurus": "Nyasasaurus",
-    "Triassic": "Triassic",
-    "herbivore": "carnivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Plateosauravus",
+    "Period": "Triassic",
+    "Diet": "herbivore"
   },
   {
-    "Lesotho": "Zimbabwe",
-    "Africa": "Africa",
-    "Euskelosaurus": "Euskelosaurus",
-    "Triassic": "Triassic",
-    "herbivore": "herbivore"
+    "Country": "Tanzania",
+    "Continent": "Africa",
+    "Name": "Nyasasaurus",
+    "Period": "Triassic",
+    "Diet": "carnivore"
   },
   {
-    "Lesotho": "China",
-    "Africa": "Asia",
-    "Euskelosaurus": "Sinosaurus",
-    "Triassic": "Triassic/Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Zimbabwe",
+    "Continent": "Africa",
+    "Name": "Euskelosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore"
   },
   {
-    "Lesotho": "India",
-    "Africa": "Asia",
-    "Euskelosaurus": "Alwalkeria",
-    "Triassic": "Late Triassic",
-    "herbivore": "omnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Sinosaurus",
+    "Period": "Triassic/Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Lesotho": "India",
-    "Africa": "Asia",
-    "Euskelosaurus": "Jaklapallisaurus",
-    "Triassic": "Late Triassic",
-    "herbivore": "herbivore"
+    "Country": "India",
+    "Continent": "Asia",
+    "Name": "Alwalkeria",
+    "Period": "Late Triassic",
+    "Diet": "omnivore"
   },
   {
-    "Lesotho": "India",
-    "Africa": "Asia",
-    "Euskelosaurus": "Nambalia",
-    "Triassic": "Late Triassic",
-    "herbivore": "omnivore"
+    "Country": "India",
+    "Continent": "Asia",
+    "Name": "Jaklapallisaurus",
+    "Period": "Late Triassic",
+    "Diet": "herbivore"
   },
   {
-    "Lesotho": "Thailand",
-    "Africa": "Asia",
-    "Euskelosaurus": "Isanosaurus",
-    "Triassic": "Triassic",
-    "herbivore": "herbivore"
+    "Country": "India",
+    "Continent": "Asia",
+    "Name": "Nambalia",
+    "Period": "Late Triassic",
+    "Diet": "omnivore"
   },
   {
-    "Lesotho": "France",
-    "Africa": "Europe",
-    "Euskelosaurus": "Lophostropheus",
-    "Triassic": "Triassic/Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Thailand",
+    "Continent": "Asia",
+    "Name": "Isanosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore"
   },
   {
-    "Lesotho": "France",
-    "Africa": "Europe",
-    "Euskelosaurus": "Plateosaurus",
-    "Triassic": "Triassic",
-    "herbivore": "herbivore"
+    "Country": "France",
+    "Continent": "Europe",
+    "Name": "Lophostropheus",
+    "Period": "Triassic/Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Lesotho": "Germany",
-    "Africa": "Europe",
-    "Euskelosaurus": "Dolichosuchus",
-    "Triassic": "Triassic",
-    "herbivore": "carnivore"
+    "Country": "France",
+    "Continent": "Europe",
+    "Name": "Plateosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore"
   },
   {
-    "Lesotho": "Germany",
-    "Africa": "Europe",
-    "Euskelosaurus": "Efraasia",
-    "Triassic": "Triassic",
-    "herbivore": "herbivore"
+    "Country": "Germany",
+    "Continent": "Europe",
+    "Name": "Dolichosuchus",
+    "Period": "Triassic",
+    "Diet": "carnivore"
   },
   {
-    "Lesotho": "Germany",
-    "Africa": "Europe",
-    "Euskelosaurus": "Halticosaurus",
-    "Triassic": "Triassic",
-    "herbivore": "carnivore"
+    "Country": "Germany",
+    "Continent": "Europe",
+    "Name": "Efraasia",
+    "Period": "Triassic",
+    "Diet": "herbivore"
   },
   {
-    "Lesotho": "Germany",
-    "Africa": "Europe",
-    "Euskelosaurus": "Liliensternus",
-    "Triassic": "Triassic",
-    "herbivore": "carnivore"
+    "Country": "Germany",
+    "Continent": "Europe",
+    "Name": "Halticosaurus",
+    "Period": "Triassic",
+    "Diet": "carnivore"
   },
   {
-    "Lesotho": "Germany",
-    "Africa": "Europe",
-    "Euskelosaurus": "Plateosaurus",
-    "Triassic": "Triassic",
-    "herbivore": "herbivore"
+    "Country": "Germany",
+    "Continent": "Europe",
+    "Name": "Liliensternus",
+    "Period": "Triassic",
+    "Diet": "carnivore"
   },
   {
-    "Lesotho": "Germany",
-    "Africa": "Europe",
-    "Euskelosaurus": "Procompsognathus",
-    "Triassic": "Triassic",
-    "herbivore": "carnivore"
+    "Country": "Germany",
+    "Continent": "Europe",
+    "Name": "Plateosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore"
   },
   {
-    "Lesotho": "Germany",
-    "Africa": "Europe",
-    "Euskelosaurus": "Pterospondylus",
-    "Triassic": "Triassic",
-    "herbivore": "carnivore"
+    "Country": "Germany",
+    "Continent": "Europe",
+    "Name": "Procompsognathus",
+    "Period": "Triassic",
+    "Diet": "carnivore"
   },
   {
-    "Lesotho": "Germany",
-    "Africa": "Europe",
-    "Euskelosaurus": "Ruehleia",
-    "Triassic": "Triassic",
-    "herbivore": "herbivore"
+    "Country": "Germany",
+    "Continent": "Europe",
+    "Name": "Pterospondylus",
+    "Period": "Triassic",
+    "Diet": "carnivore"
   },
   {
-    "Lesotho": "Germany",
-    "Africa": "Europe",
-    "Euskelosaurus": "Tanystrosuchus",
-    "Triassic": "Triassic",
-    "herbivore": "carnivore"
+    "Country": "Germany",
+    "Continent": "Europe",
+    "Name": "Ruehleia",
+    "Period": "Triassic",
+    "Diet": "herbivore"
   },
   {
-    "Lesotho": "Norway",
-    "Africa": "Europe",
-    "Euskelosaurus": "Plateosaurus",
-    "Triassic": "Triassic",
-    "herbivore": "herbivore"
+    "Country": "Germany",
+    "Continent": "Europe",
+    "Name": "Tanystrosuchus",
+    "Period": "Triassic",
+    "Diet": "carnivore"
   },
   {
-    "Lesotho": "Poland",
-    "Africa": "Europe",
-    "Euskelosaurus": "Velocipes",
-    "Triassic": "Triassic",
-    "herbivore": "carnivore"
+    "Country": "Norway",
+    "Continent": "Europe",
+    "Name": "Plateosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore"
   },
   {
-    "Lesotho": "Switzerland",
-    "Africa": "Europe",
-    "Euskelosaurus": "Plateosaurus",
-    "Triassic": "Triassic",
-    "herbivore": "herbivore"
+    "Country": "Poland",
+    "Continent": "Europe",
+    "Name": "Velocipes",
+    "Period": "Triassic",
+    "Diet": "carnivore"
   },
   {
-    "Lesotho": "United Kingdom",
-    "Africa": "Europe",
-    "Euskelosaurus": "Agrosaurus",
-    "Triassic": "Triassic",
-    "herbivore": "herbivore"
+    "Country": "Switzerland",
+    "Continent": "Europe",
+    "Name": "Plateosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore"
   },
   {
-    "Lesotho": "United Kingdom",
-    "Africa": "Europe",
-    "Euskelosaurus": "Asylosaurus",
-    "Triassic": "Triassic",
-    "herbivore": "herbivore/omnivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Agrosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore"
   },
   {
-    "Lesotho": "United Kingdom",
-    "Africa": "Europe",
-    "Euskelosaurus": "Camelotia",
-    "Triassic": "Triassic",
-    "herbivore": "herbivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Asylosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore/omnivore"
   },
   {
-    "Lesotho": "United Kingdom",
-    "Africa": "Europe",
-    "Euskelosaurus": "Newtonsaurus",
-    "Triassic": "Triassic",
-    "herbivore": "carnivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Camelotia",
+    "Period": "Triassic",
+    "Diet": "herbivore"
   },
   {
-    "Lesotho": "United Kingdom",
-    "Africa": "Europe",
-    "Euskelosaurus": "Pantydraco",
-    "Triassic": "Triassic",
-    "herbivore": "herbivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Newtonsaurus",
+    "Period": "Triassic",
+    "Diet": "carnivore"
   },
   {
-    "Lesotho": "United Kingdom",
-    "Africa": "Europe",
-    "Euskelosaurus": "Thecodontosaurus",
-    "Triassic": "Triassic",
-    "herbivore": "herbivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Pantydraco",
+    "Period": "Triassic",
+    "Diet": "herbivore"
+  },
+  {
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Thecodontosaurus",
+    "Period": "Triassic",
+    "Diet": "herbivore"
   }
 ]

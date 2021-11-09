@@ -77,7 +77,7 @@
       }
 
       function getContinent(countryName) {
-        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Continents.json", function(json) {
+        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Cretaceous.json", function(json) {
         for (var i = 0; i < json.length; i++){
           var obj = json[i];
           if (obj.Country == countryName) {
@@ -92,7 +92,7 @@
         document.getElementById("continentToggle").innerHTML = "Switch to all dinosaurs from " + countryName + " <i style = \"margin-left:2%\" class=\"fas fa-sync\" onclick = \"switchToContinent(obj.Continent)\"></i>";
         document.getElementById("results").innerHTML = '';
 
-        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Dinosaurs.json", function(json) {
+        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Cretaceous.json", function(json) {
             for (var i = 0; i < json.length; i++){
               var obj = json[i];
               if (obj.Continent == continent) {
@@ -107,7 +107,7 @@
         function getDinosaurs(type) {
           document.getElementById("results").innerHTML = '';
           console.log(type);
-          $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Dinosaurs.json", function(json) {
+          $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Cretaceous.json", function(json) {
 
             if (type == 'all') {
               for (var i = 0; i < json.length; i++){
