@@ -76,9 +76,9 @@
       }
 
       function getContinent(countryName) {
-      console.log(countryName);
+      console.log("the country name is" + countryName);
         document.getElementById("continentToggle").innerHTML = '';
-        $.getJSON("https://raw.githubusercontent.com/dbouquin/IS_608/master/NanosatDB_munging/Countries-Continents.csv", function(json) {
+        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Continents.json", function(json) {
           console.log("hewwo");
         for (var i = 0; i < json.length; i++){
           var obj = json[i];
