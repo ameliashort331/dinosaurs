@@ -1,0 +1,3852 @@
+[
+  {
+    "Algeria": "Algeria",
+    "Africa": "Africa",
+    "Bahariasaurus": "Carcharodontosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Algeria",
+    "Africa": "Africa",
+    "Bahariasaurus": "Deltadromeus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Angola",
+    "Africa": "Africa",
+    "Bahariasaurus": "Angolatitan",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Egypt",
+    "Africa": "Africa",
+    "Bahariasaurus": "Aegyptosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Egypt",
+    "Africa": "Africa",
+    "Bahariasaurus": "Bahariasaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Egypt",
+    "Africa": "Africa",
+    "Bahariasaurus": "Carcharodontosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Egypt",
+    "Africa": "Africa",
+    "Bahariasaurus": "Deltadromeus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Egypt",
+    "Africa": "Africa",
+    "Bahariasaurus": "Inosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Egypt",
+    "Africa": "Africa",
+    "Bahariasaurus": "Paralititan",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Egypt",
+    "Africa": "Africa",
+    "Bahariasaurus": "Spinosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Madagascar",
+    "Africa": "Africa",
+    "Bahariasaurus": "Dahalokely",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Madagascar",
+    "Africa": "Africa",
+    "Bahariasaurus": "Majungasaurus",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Madagascar",
+    "Africa": "Africa",
+    "Bahariasaurus": "Masiakasaurus",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Madagascar",
+    "Africa": "Africa",
+    "Bahariasaurus": "Rahonavis",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Madagascar",
+    "Africa": "Africa",
+    "Bahariasaurus": "Rapetosaurus",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Madagascar",
+    "Africa": "Africa",
+    "Bahariasaurus": "Vahiny",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Malawi",
+    "Africa": "Africa",
+    "Bahariasaurus": "Karongasaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Malawi",
+    "Africa": "Africa",
+    "Bahariasaurus": "Malawisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Morocco",
+    "Africa": "Africa",
+    "Bahariasaurus": "Bahariasaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Morocco",
+    "Africa": "Africa",
+    "Bahariasaurus": "Carcharodontosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Morocco",
+    "Africa": "Africa",
+    "Bahariasaurus": "Chenanisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Morocco",
+    "Africa": "Africa",
+    "Bahariasaurus": "Deltadromeus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Morocco",
+    "Africa": "Africa",
+    "Bahariasaurus": "Rebbachisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Morocco",
+    "Africa": "Africa",
+    "Bahariasaurus": "Sauroniops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Morocco",
+    "Africa": "Africa",
+    "Bahariasaurus": "Sigilmassasaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Morocco",
+    "Africa": "Africa",
+    "Bahariasaurus": "Spinosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Niger",
+    "Africa": "Africa",
+    "Bahariasaurus": "Aegyptosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Niger",
+    "Africa": "Africa",
+    "Bahariasaurus": "Bahariasaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Niger",
+    "Africa": "Africa",
+    "Bahariasaurus": "Carcharodontosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Niger",
+    "Africa": "Africa",
+    "Bahariasaurus": "Cristatusaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Niger",
+    "Africa": "Africa",
+    "Bahariasaurus": "Elrhazosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Niger",
+    "Africa": "Africa",
+    "Bahariasaurus": "Eocarcharia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Niger",
+    "Africa": "Africa",
+    "Bahariasaurus": "Kryptops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Niger",
+    "Africa": "Africa",
+    "Bahariasaurus": "Lurdusaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Niger",
+    "Africa": "Africa",
+    "Bahariasaurus": "Nigersaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Niger",
+    "Africa": "Africa",
+    "Bahariasaurus": "Ouranosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Niger",
+    "Africa": "Africa",
+    "Bahariasaurus": "Rebbachisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Niger",
+    "Africa": "Africa",
+    "Bahariasaurus": "Rugops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Niger",
+    "Africa": "Africa",
+    "Bahariasaurus": "Suchomimus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "South Africa",
+    "Africa": "Africa",
+    "Bahariasaurus": "Algoasaurus",
+    "Cretaceous": "Jurassic/Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "South Africa",
+    "Africa": "Africa",
+    "Bahariasaurus": "Kangnasaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "South Africa",
+    "Africa": "Africa",
+    "Bahariasaurus": "Nqwebasaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "South Africa",
+    "Africa": "Africa",
+    "Bahariasaurus": "Paranthodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Tanzania",
+    "Africa": "Africa",
+    "Bahariasaurus": "Rukwatitan",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Tunisia",
+    "Africa": "Africa",
+    "Bahariasaurus": "Rebbachisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Tunisia",
+    "Africa": "Africa",
+    "Bahariasaurus": "Tataouinea",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Amurosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Archaeoceratops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Archaeornithomimus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Asiaceratops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Auroraceratops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Bactrosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Bakesaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "(unknown)"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Banji",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Baotianmansaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Beipiaosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Beishanlong",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Bolong",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Borealosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Caudipteryx",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Changchunsaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Changyuraptor",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Charonosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Chilantaisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Chingkankousaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Chuanqilong",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Crichtonpelta",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Crichtonsaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Datanglong",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Daxiatitan",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Dilong",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Dongbeititan",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Dongyangopelta",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Dongyangosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Equijubus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Erliansaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Euhelopus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Fusuisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Gannansaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Ganzhousaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Gigantoraptor",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Gobisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Gongpoquansaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Graciliraptor",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Hanwulosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Heilongjiangosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Heishansaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Helioceratops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Hexing",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Heyuannia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Huabeisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Huanghetitan",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Huaxiagnathus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Incisivosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore/omnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Jeholosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Jianchangosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Jiangshanosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Jiangxisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Jinfengopteryx",
+    "Cretaceous": "Jurassic/Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Jintasaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Jinzhousaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Jiutaisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Kelmayisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Lanzhousaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Liaoceratops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Liaoningosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Linhenykus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Linheraptor",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Linhevenator",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Liubangosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Luanchuanraptor",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Luoyanggia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Machairasaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Magnirostris",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Mandschurosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Megacervixosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Mei",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Microhadrosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Micropachycephalosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Microraptor",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Mongolosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Mosaiceratops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Nankangia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Nanningosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Nanshiungosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Nanyangosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Neimongosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Ningyuansaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Nurosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Otogosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Peishansaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Penelopognathus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Phaedrolosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Philovenator",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Pinacosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Probactrosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Prodeinodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Protarchaeopteryx",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore/omnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Psittacosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Qianzhousaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Qiaowanlong",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Qingxiusaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Qinlingosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Ruyangosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Sahaliyania",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Sangonghesaurus",
+    "Cretaceous": "Jurassic/Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Saurolophus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Sauroplites",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Shantungosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Shanxia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Shanyangosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "(unknown)"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Shaochilong",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Shenzhousaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Shixinggia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Shuangmiaosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Siluosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Similicaudipteryx",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Sinocalliopteryx",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Sinoceratops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Sinopliosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Sinornithoides",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Sinornithomimus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Sinornithosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Sinosauropteryx",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Sinotyrannus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Sinovenator",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Sinusonasus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Sonidosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Stegosaurides",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Suzhousaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Tanius",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Taohelong",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Tarbosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Tianyuraptor",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Tianzhenosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Tsintaosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Tugulusaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore?"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Velociraptor",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Wannanosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Wuerhosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Wulagasaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Wulatelong",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Xianshanosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Xinjiangovenator",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Xiongguanlong",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Xixianykus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "(unknown)"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Xixiasaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Xunmenglong",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "Carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Xuwulong",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Yixianosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Yongjinglong",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Yueosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Yulong",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Yunganglong",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Yunxianosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Yutyrannus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Zhanghenglong",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Zhejiangosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Zhongornis",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "(unknown)"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Zhongyuansaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Zhuchengceratops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "China",
+    "Africa": "Asia",
+    "Bahariasaurus": "Zhuchengtyrannus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "India",
+    "Africa": "Asia",
+    "Bahariasaurus": "Brachypodosaurus",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "India",
+    "Africa": "Asia",
+    "Bahariasaurus": "Bruhathkayosaurus",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "India",
+    "Africa": "Asia",
+    "Bahariasaurus": "Coeluroides",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "India",
+    "Africa": "Asia",
+    "Bahariasaurus": "Compsosuchus",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "India",
+    "Africa": "Asia",
+    "Bahariasaurus": "Dryptosauroides",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "India",
+    "Africa": "Asia",
+    "Bahariasaurus": "Indosaurus",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "India",
+    "Africa": "Asia",
+    "Bahariasaurus": "Indosuchus",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "India",
+    "Africa": "Asia",
+    "Bahariasaurus": "Isisaurus",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "India",
+    "Africa": "Asia",
+    "Bahariasaurus": "Jainosaurus",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "India",
+    "Africa": "Asia",
+    "Bahariasaurus": "Jubbulpuria",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "India",
+    "Africa": "Asia",
+    "Bahariasaurus": "Laevisuchus",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "India",
+    "Africa": "Asia",
+    "Bahariasaurus": "Lametasaurus",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "India",
+    "Africa": "Asia",
+    "Bahariasaurus": "Ornithomimoides",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "India",
+    "Africa": "Asia",
+    "Bahariasaurus": "Orthogoniosaurus",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "India",
+    "Africa": "Asia",
+    "Bahariasaurus": "Rahiolisaurus",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "India",
+    "Africa": "Asia",
+    "Bahariasaurus": "Rajasaurus",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "India",
+    "Africa": "Asia",
+    "Bahariasaurus": "Titanosaurus",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Japan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Albalophosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Japan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Fukuiraptor",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Japan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Fukuisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Japan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Fukuititan",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Japan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Fukuivenator",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "unknown"
+  },
+  {
+    "Algeria": "Japan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Futabasaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Japan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Kamuysaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "Herbivore"
+  },
+  {
+    "Algeria": "Japan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Koshisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Japan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Sanchusaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Japan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Sugiyamasaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Japan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Tambatitanis",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Japan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Wakinosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Kazakhstan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Aralosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Kazakhstan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Arstanosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Kazakhstan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Batyrosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Kazakhstan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Jaxartosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Kazakhstan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Kazaklambia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Kazakhstan",
+    "Africa": "Europe",
+    "Bahariasaurus": "Aralosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Kazakhstan",
+    "Africa": "Europe",
+    "Bahariasaurus": "Arstanosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Kazakhstan",
+    "Africa": "Europe",
+    "Bahariasaurus": "Batyrosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Kazakhstan",
+    "Africa": "Europe",
+    "Bahariasaurus": "Jaxartosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Kazakhstan",
+    "Africa": "Europe",
+    "Bahariasaurus": "Kazaklambia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Laos",
+    "Africa": "Asia",
+    "Bahariasaurus": "Ichthyovenator",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Laos",
+    "Africa": "Asia",
+    "Bahariasaurus": "Mandschurosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Laos",
+    "Africa": "Asia",
+    "Bahariasaurus": "Tangvayosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Achillobator",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Adasaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Airakoraptor",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Albinykus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Alectrosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Alioramus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Altirhinus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Alxasaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Amtocephale",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Amtosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Anserimimus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Archaeornithoides",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Asiatosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Avimimus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Bagaceratops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Bagaraatan",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Bainoceratops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Barsboldia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Borogovia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Breviceratops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Byronosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Ceratonykus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Charonosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Choyrodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Citipati",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Conchoraptor",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Deinocheirus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "EK troodont",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Elmisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Enigmosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Erketu",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Erlikosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Gadolosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Gallimimus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Garudimimus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Gilmoreosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Gobiceratops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Gobiraptor",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivorous"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Gobititan",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Gobivenator",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Goyocephale",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore/omnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Graciliceratops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Harpymimus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Haya",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore/omnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Homalocephale",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore/omnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Hulsanpes",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Iguanodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Khaan",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore/omnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Kol",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Lamaceratops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Mahakala",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Maleevus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Microceratus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Minotaurasaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Mononykus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Nemegtomaia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore/omnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Nemegtonykus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Nemegtosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Nomingia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore/omnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Opisthocoelicaudia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Oviraptor",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Parvicursor",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore?"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Pinacosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Platyceratops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Plesiohadros",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Prenocephale",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore/omnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Probactrosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Prodeinodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Protoceratops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Psittacosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Qiupalong",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Quaesitosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Raptorex",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Rinchenia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Ronaldoraptor",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Saichania",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Saurolophus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Saurornithoides",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Segnosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore/omnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Shamosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Shanag",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Shuvuuia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "SPS 100/44",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore/omnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Talarurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Tarbosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Tarchia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Therizinosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Tochisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Tonouchisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "(unknown)"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Tsaagan",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Tsagantegia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Tylocephale",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Udanoceratops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Velociraptor",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Wuerhosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Yamaceratops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Mongolia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Zanabazar",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Pakistan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Balochisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Pakistan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Gspsaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Pakistan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Khetranisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Pakistan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Marisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Pakistan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Pakisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Pakistan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Sulaimanisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Pakistan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Vitakridrinda",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Pakistan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Vitakrisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Russia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Amurosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Russia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Arkharavia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Russia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Charonosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Russia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Kerberosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Russia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Kundurosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Russia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Nipponosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Russia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Olorotitan",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Russia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Psittacosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Russia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Riabininohadros",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Russia",
+    "Africa": "Asia",
+    "Bahariasaurus": "Tengrisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Russia",
+    "Africa": "Europe",
+    "Bahariasaurus": "Amurosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Russia",
+    "Africa": "Europe",
+    "Bahariasaurus": "Arkharavia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Russia",
+    "Africa": "Europe",
+    "Bahariasaurus": "Charonosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Russia",
+    "Africa": "Europe",
+    "Bahariasaurus": "Kerberosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Russia",
+    "Africa": "Europe",
+    "Bahariasaurus": "Kundurosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Russia",
+    "Africa": "Europe",
+    "Bahariasaurus": "Nipponosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Russia",
+    "Africa": "Europe",
+    "Bahariasaurus": "Olorotitan",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Russia",
+    "Africa": "Europe",
+    "Bahariasaurus": "Psittacosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Russia",
+    "Africa": "Europe",
+    "Bahariasaurus": "Riabininohadros",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Russia",
+    "Africa": "Europe",
+    "Bahariasaurus": "Tengrisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "South Korea",
+    "Africa": "Asia",
+    "Bahariasaurus": "Auroraceratops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "South Korea",
+    "Africa": "Asia",
+    "Bahariasaurus": "Deinonychus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "South Korea",
+    "Africa": "Asia",
+    "Bahariasaurus": "Koreaceratops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "South Korea",
+    "Africa": "Asia",
+    "Bahariasaurus": "Koreanosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "South Korea",
+    "Africa": "Asia",
+    "Bahariasaurus": "Pukyongosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "South Korea",
+    "Africa": "Asia",
+    "Bahariasaurus": "Ultrasaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Thailand",
+    "Africa": "Asia",
+    "Bahariasaurus": "Kinnareemimus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "Thailand",
+    "Africa": "Asia",
+    "Bahariasaurus": "Phuwiangosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Thailand",
+    "Africa": "Asia",
+    "Bahariasaurus": "Phuwiangvenator",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Thailand",
+    "Africa": "Asia",
+    "Bahariasaurus": "Psittacosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Thailand",
+    "Africa": "Asia",
+    "Bahariasaurus": "Ratchasimasaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Thailand",
+    "Africa": "Asia",
+    "Bahariasaurus": "Siamodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Thailand",
+    "Africa": "Asia",
+    "Bahariasaurus": "Siamosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Thailand",
+    "Africa": "Asia",
+    "Bahariasaurus": "Siamotyrannus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Thailand",
+    "Africa": "Asia",
+    "Bahariasaurus": "Siamraptor",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "Carnivore"
+  },
+  {
+    "Algeria": "Thailand",
+    "Africa": "Asia",
+    "Bahariasaurus": "Sirindhorna",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Thailand",
+    "Africa": "Asia",
+    "Bahariasaurus": "Vayuraptor",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Uzbekistan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Bissektipelta",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Uzbekistan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Caenagnathasia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "Uzbekistan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Euronychodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Uzbekistan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Gilmoreosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Uzbekistan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Itemirus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Uzbekistan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Kulceratops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Uzbekistan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Levnesovia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Uzbekistan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Turanoceratops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Uzbekistan",
+    "Africa": "Asia",
+    "Bahariasaurus": "Urbacodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Austria",
+    "Africa": "Europe",
+    "Bahariasaurus": "Mochlodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Austria",
+    "Africa": "Europe",
+    "Bahariasaurus": "Rhadinosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Austria",
+    "Africa": "Europe",
+    "Bahariasaurus": "Struthiosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Belgium",
+    "Africa": "Europe",
+    "Bahariasaurus": "Craspedodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Belgium",
+    "Africa": "Europe",
+    "Bahariasaurus": "Iguanodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Belgium",
+    "Africa": "Europe",
+    "Bahariasaurus": "Mantellisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Belgium",
+    "Africa": "Europe",
+    "Bahariasaurus": "Orthomerus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Croatia",
+    "Africa": "Europe",
+    "Bahariasaurus": "Histriasaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Denmark",
+    "Africa": "Europe",
+    "Bahariasaurus": "Dromaeosauroides",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "France",
+    "Africa": "Europe",
+    "Bahariasaurus": "Aepisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "France",
+    "Africa": "Europe",
+    "Bahariasaurus": "Ampelosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "France",
+    "Africa": "Europe",
+    "Bahariasaurus": "Arcovenator",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "France",
+    "Africa": "Europe",
+    "Bahariasaurus": "Atsinganosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "France",
+    "Africa": "Europe",
+    "Bahariasaurus": "Canardia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "France",
+    "Africa": "Europe",
+    "Bahariasaurus": "Erectopus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "France",
+    "Africa": "Europe",
+    "Bahariasaurus": "Genusaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "France",
+    "Africa": "Europe",
+    "Bahariasaurus": "Hypselosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "France",
+    "Africa": "Europe",
+    "Bahariasaurus": "Iguanodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "France",
+    "Africa": "Europe",
+    "Bahariasaurus": "Matheronodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "France",
+    "Africa": "Europe",
+    "Bahariasaurus": "Morinosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "France",
+    "Africa": "Europe",
+    "Bahariasaurus": "Normanniasaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "France",
+    "Africa": "Europe",
+    "Bahariasaurus": "Pyroraptor",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "France",
+    "Africa": "Europe",
+    "Bahariasaurus": "Rhabdodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "France",
+    "Africa": "Europe",
+    "Bahariasaurus": "Rhadinosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "France",
+    "Africa": "Europe",
+    "Bahariasaurus": "Struthiosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "France",
+    "Africa": "Europe",
+    "Bahariasaurus": "Tarascosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Germany",
+    "Africa": "Europe",
+    "Bahariasaurus": "Mantellisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Germany",
+    "Africa": "Europe",
+    "Bahariasaurus": "Stenopelix",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Hungary",
+    "Africa": "Europe",
+    "Bahariasaurus": "Ajkaceratops",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Hungary",
+    "Africa": "Europe",
+    "Bahariasaurus": "Hungarosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Hungary",
+    "Africa": "Europe",
+    "Bahariasaurus": "Pneumatoraptor",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Hungary",
+    "Africa": "Europe",
+    "Bahariasaurus": "Rhadinosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Hungary",
+    "Africa": "Europe",
+    "Bahariasaurus": "Struthiosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Italy",
+    "Africa": "Europe",
+    "Bahariasaurus": "Scipionyx",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Italy",
+    "Africa": "Europe",
+    "Bahariasaurus": "Tethyshadros",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Netherlands",
+    "Africa": "Europe",
+    "Bahariasaurus": "Betasuchus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Netherlands",
+    "Africa": "Europe",
+    "Bahariasaurus": "Orthomerus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Portugal",
+    "Africa": "Europe",
+    "Bahariasaurus": "Baryonyx",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Portugal",
+    "Africa": "Europe",
+    "Bahariasaurus": "Euronychodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Portugal",
+    "Africa": "Europe",
+    "Bahariasaurus": "Pelorosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Portugal",
+    "Africa": "Europe",
+    "Bahariasaurus": "Taveirosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Portugal",
+    "Africa": "Europe",
+    "Bahariasaurus": "Turiasaurus",
+    "Cretaceous": "Jurassic/Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Romania",
+    "Africa": "Europe",
+    "Bahariasaurus": "Balaur",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore/omnivore"
+  },
+  {
+    "Algeria": "Romania",
+    "Africa": "Europe",
+    "Bahariasaurus": "Bihariosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Romania",
+    "Africa": "Europe",
+    "Bahariasaurus": "Bradycneme",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "(carnivore)"
+  },
+  {
+    "Algeria": "Romania",
+    "Africa": "Europe",
+    "Bahariasaurus": "Elopteryx",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Romania",
+    "Africa": "Europe",
+    "Bahariasaurus": "Heptasteornis",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Romania",
+    "Africa": "Europe",
+    "Bahariasaurus": "Magyarosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Romania",
+    "Africa": "Europe",
+    "Bahariasaurus": "Paludititan",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Romania",
+    "Africa": "Europe",
+    "Bahariasaurus": "Rhabdodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Romania",
+    "Africa": "Europe",
+    "Bahariasaurus": "Rhadinosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Romania",
+    "Africa": "Europe",
+    "Bahariasaurus": "Struthiosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Romania",
+    "Africa": "Europe",
+    "Bahariasaurus": "Telmatosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Romania",
+    "Africa": "Europe",
+    "Bahariasaurus": "Zalmoxes",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Adynomosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Aragosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Arenysaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Baryonyx",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Blasisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Camarillasaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Concavenator",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Delapparentia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Demandasaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Europatitan",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Europelta",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Galvesaurus",
+    "Cretaceous": "Jurassic/Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Gideonmantellia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Iguanodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Lirainosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Losillasaurus",
+    "Cretaceous": "Jurassic/Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Magnamanus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Morelladon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Pararhabdodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Pelecanimimus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Proa",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Rhabdodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Soriatitan",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Tastavinsaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Taveirosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Turiasaurus",
+    "Cretaceous": "Jurassic/Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Spain",
+    "Africa": "Europe",
+    "Bahariasaurus": "Vallibonavenatrix",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Acanthopholis",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Altispinax",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Anoplosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Aristosuchus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Barilium",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Baryonyx",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Calamosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Calamospondylus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "(carnivore)"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Chondrosteosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Craterosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Darwinsaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Dinodocus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Echinodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Eotyrannus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Eucamerotus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Eucercosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Gigantosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Horshamosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Huxleysaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Hylaeosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Hypselospinus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Hypsilophodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Iguanodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Iliosuchus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Iuticosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Kukufeldia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Macrurosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Mantellisaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Mantellodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Neovenator",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Nuthetes",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Oplosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Ornithodesmus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Ornithopsis",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Owenodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Pelorosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Polacanthus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Proplanicoxa",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Regnosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Sellacoxa",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Suchosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Thecocoelurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Thecospondylus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "(carnivore)"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Therosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Valdoraptor",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Valdosaurus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Variraptor",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Xenoposeidon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United Kingdom",
+    "Africa": "Europe",
+    "Bahariasaurus": "Yaverlandia",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Canada",
+    "Africa": "North America",
+    "Bahariasaurus": "Qiupalong",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "omnivore"
+  },
+  {
+    "Algeria": "Canada",
+    "Africa": "North America",
+    "Bahariasaurus": "Saurolophus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United States of America",
+    "Africa": "North America",
+    "Bahariasaurus": "Iguanodon",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "United States of America",
+    "Africa": "North America",
+    "Bahariasaurus": "Saurolophus",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Australia",
+    "Africa": "Oceania",
+    "Bahariasaurus": "Atlascopcosaurus",
+    "Cretaceous": "Early Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Australia",
+    "Africa": "Oceania",
+    "Bahariasaurus": "Australovenator",
+    "Cretaceous": "Early-Late Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Australia",
+    "Africa": "Oceania",
+    "Bahariasaurus": "Austrosaurus",
+    "Cretaceous": "Early Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Australia",
+    "Africa": "Oceania",
+    "Bahariasaurus": "Diamantinasaurus",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Australia",
+    "Africa": "Oceania",
+    "Bahariasaurus": "Diluvicursor",
+    "Cretaceous": "Early Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Australia",
+    "Africa": "Oceania",
+    "Bahariasaurus": "Fostoria",
+    "Cretaceous": "Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Australia",
+    "Africa": "Oceania",
+    "Bahariasaurus": "Fulgurotherium",
+    "Cretaceous": "Early Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Australia",
+    "Africa": "Oceania",
+    "Bahariasaurus": "Galleonosaurus",
+    "Cretaceous": "Early Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Australia",
+    "Africa": "Oceania",
+    "Bahariasaurus": "Kakuru",
+    "Cretaceous": "Early Cretaceous",
+    "carnivore": "?"
+  },
+  {
+    "Algeria": "Australia",
+    "Africa": "Oceania",
+    "Bahariasaurus": "Kunbarrasaurus",
+    "Cretaceous": "Early Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Australia",
+    "Africa": "Oceania",
+    "Bahariasaurus": "Leaellynasaura",
+    "Cretaceous": "Early Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Australia",
+    "Africa": "Oceania",
+    "Bahariasaurus": "Minmi",
+    "Cretaceous": "Early Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Australia",
+    "Africa": "Oceania",
+    "Bahariasaurus": "Muttaburrasaurus",
+    "Cretaceous": "Early Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Australia",
+    "Africa": "Oceania",
+    "Bahariasaurus": "Qantassaurus",
+    "Cretaceous": "Early Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Australia",
+    "Africa": "Oceania",
+    "Bahariasaurus": "Rapator",
+    "Cretaceous": "Early Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Australia",
+    "Africa": "Oceania",
+    "Bahariasaurus": "Savannasaurus",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Australia",
+    "Africa": "Oceania",
+    "Bahariasaurus": "Serendipaceratops",
+    "Cretaceous": "Early Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Australia",
+    "Africa": "Oceania",
+    "Bahariasaurus": "Timimus",
+    "Cretaceous": "Early Cretaceous",
+    "carnivore": "?"
+  },
+  {
+    "Algeria": "Australia",
+    "Africa": "Oceania",
+    "Bahariasaurus": "Walgettosuchus",
+    "Cretaceous": "Early Cretaceous",
+    "carnivore": "carnivore"
+  },
+  {
+    "Algeria": "Australia",
+    "Africa": "Oceania",
+    "Bahariasaurus": "Weewarrasaurus",
+    "Cretaceous": "Late Cretaceous",
+    "carnivore": "herbivore"
+  },
+  {
+    "Algeria": "Australia",
+    "Africa": "Oceania",
+    "Bahariasaurus": "Wintonotitan",
+    "Cretaceous": "Early Cretaceous",
+    "carnivore": "herbivore"
+  }
+]

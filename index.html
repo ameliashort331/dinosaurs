@@ -18,7 +18,7 @@
 
       <!-- Modal content -->
       <div style = "width:900px;margin:auto;">
-        <div id = "continentToggle"><i style = "margin-left:2%" class="fas fa-sync"></i></div>
+        <div id = "continentToggle"></div>
       <div class="modal-content" style = "background-color:#C6BDC1;width:900px;height:600px;position:relative;">
         <span class="close">&times;</span>
         <div id = "modalHeader">
@@ -64,10 +64,11 @@
     <script>
       var modal = document.getElementById("myModal");
       var span = document.getElementsByClassName("close")[0];
+      var countryName;
 
       function getCountryName(type) {
         var x = document.getElementsByClassName("active");
-        countryName = x[0].innerHTML.replace('<title>', '');
+          countryName = x[0].innerHTML.replace('<title>', '');
           countryName = countryName.replace('</title>', '');
           modal.style.display = "block";
           document.getElementById("modaltext").innerHTML = countryName;
@@ -76,20 +77,32 @@
       }
 
       function getContinent(countryName) {
-      console.log("the country name is" + countryName);
-        document.getElementById("continentToggle").innerHTML = '';
         $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Continents.json", function(json) {
-          console.log("hewwo");
         for (var i = 0; i < json.length; i++){
           var obj = json[i];
           if (obj.Country == countryName) {
-            document.getElementById("continentToggle").innerHTML = obj.Continent;
+            document.getElementById("continentToggle").innerHTML = "Switch to all dinosaurs from " + obj.Continent + " <i style = \"margin-left:2%\" class=\"fas fa-sync\" onclick = \"switchToContinent(obj.Continent)\"></i>";
           }
         }
 
         });
       }
 
+      function switchToContinent(continent) {
+        document.getElementById("continentToggle").innerHTML = "Switch to all dinosaurs from " + countryName + " <i style = \"margin-left:2%\" class=\"fas fa-sync\" onclick = \"switchToContinent(obj.Continent)\"></i>";
+        document.getElementById("results").innerHTML = '';
+
+        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Dinosaurs.json", function(json) {
+            for (var i = 0; i < json.length; i++){
+              var obj = json[i];
+              if (obj.Continent == continent) {
+                var z = document.createElement('p'); // is a node
+                z.innerHTML = obj.Name;
+                document.getElementById("results").appendChild(z);
+              }
+            }
+          });
+      }
 
         function getDinosaurs(type) {
           document.getElementById("results").innerHTML = '';
