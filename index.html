@@ -18,7 +18,7 @@
 
       <!-- Modal content -->
       <div style = "width:900px;margin:auto;">
-        <div id = "continentToggle">Switch to North America <i style = "margin-left:2%" class="fas fa-sync"></i></div>
+        <div id = "continentToggle"><i style = "margin-left:2%" class="fas fa-sync"></i></div>
       <div class="modal-content" style = "background-color:#C6BDC1;width:900px;height:600px;position:relative;">
         <span class="close">&times;</span>
         <div id = "modalHeader">
@@ -72,10 +72,27 @@
           modal.style.display = "block";
           document.getElementById("modaltext").innerHTML = countryName;
           getDinosaurs(type);
+          getContinent(countryName);
+      }
+
+      function getContinent(countryName) {
+      console.log(countryName);
+        document.getElementById("continentToggle").innerHTML = '';
+        $.getJSON("https://raw.githubusercontent.com/dbouquin/IS_608/master/NanosatDB_munging/Countries-Continents.csv", function(json) {
+          console.log("hewwo");
+        for (var i = 0; i < json.length; i++){
+          var obj = json[i];
+          if (obj.Country == countryName) {
+            document.getElementById("continentToggle").innerHTML = obj.Continent;
+          }
         }
 
+        });
+      }
+
+
         function getDinosaurs(type) {
-          results.innerHTML = '';
+          document.getElementById("results").innerHTML = '';
           console.log(type);
           $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Dinosaurs.json", function(json) {
 
