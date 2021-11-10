@@ -13,6 +13,7 @@
 
   </head>
   <body>
+    <p style = "font-size:2em;font-family:Julius Sans One">Jurassic period</p>
     <!-- The Modal -->
     <div id="myModal" class="modal">
 
@@ -53,13 +54,57 @@
     </div>
 
     <div onclick="getCountryName('all')" class="d3-geomap" id="map"></div>
+
+    <div onclick="color()">hiiii</div>
+
   </body>
   <script src="https://unpkg.com/d3@5.16.0/dist/d3.min.js"></script>
   <script src="https://unpkg.com/topojson@3/dist/topojson.min.js"></script>
   <script src="d3-geomap/d3-geomap.min.js"></script>
-  <script>var map = d3.geomap()
+  <script>
+    var map = d3.geomap()
     .geofile('https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/topojson/world/countries.json')
-    .draw(d3.select('#map'));</script>
+    .draw(d3.select('#map'));
+</script>
+
+
+    <script>
+    function color() {
+
+        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Jurassic.json", function(json) {
+            for (var i = 0; i < json.length; i++){
+              var obj = json[i];
+              countries.push(obj["Country"]);
+            }
+          });
+
+        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/codes.json", function(json) {
+            for (var i = 0; i < json.length; i++){
+              var obj = json[i];
+              for (var j = 0; j < countries.length; j++){
+                if (obj.Country === countries[j]) {
+                  // console.log(obj["Alpha-3 code"]);
+                  codes.push(obj["Alpha-3 code"]);
+                }
+              }
+            }
+            for (var i = 0; i < codes.length; i++){
+              var cols = document.getElementsByClassName("unit-" + codes[i]);
+              console.log(cols);
+              console.log(cols.length);
+              for(var j = 0; j < cols.length; j++) {
+                console.log(cols[j]);
+                  cols[j].style.fill = "#abdede";
+              }
+
+             // document.getElementsByClassName("unit-" + codes[j]).style.fill = "blue";
+            }
+          });
+
+
+
+      }
+    </script>
 
     <script>
       var modal = document.getElementById("myModal");
@@ -67,6 +112,9 @@
       var countryName;
       var continentName;
       var country = true;
+      const countries = [];
+      const codes = [];
+
 
 
 
@@ -85,7 +133,7 @@
       }
 
       function getContinent(countryName) {
-        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Triassic.json", function(json) {
+        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Jurassic.json", function(json) {
         for (var i = 0; i < json.length; i++){
           var obj = json[i];
           if (obj.Country == countryName) {
@@ -98,16 +146,17 @@
       }
 
       function switchToContinent(continent) {
+        document.getElementById("modaltext").innerHTML = continentName;
         country = false;
         document.getElementById("continentToggle").innerHTML = "Switch to all dinosaurs from " + countryName + " <i style = \"margin-left:2%\" class=\"fas fa-sync\" onclick = \"switchToCountry('" + countryName + "')\"></i>";
         document.getElementById("results").innerHTML = '';
 
-        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Triassic.json", function(json) {
+        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Jurassic.json", function(json) {
             for (var i = 0; i < json.length; i++){
               var obj = json[i];
               if (obj.Continent == continentName) {
                 var z = document.createElement('p'); // is a node
-                z.innerHTML = obj.Name;
+                z.innerHTML = obj.Name + "-" + obj.Diet;
                 document.getElementById("results").appendChild(z);
               }
             }
@@ -115,16 +164,17 @@
       }
 
       function switchToCountry(countryName) {
+        document.getElementById("modaltext").innerHTML = countryName;
         country = false;
         document.getElementById("continentToggle").innerHTML = "Switch to all dinosaurs from " + continentName + " <i style = \"margin-left:2%\" class=\"fas fa-sync\" onclick = \"switchToContinent('" + continentName + "')\"></i>";
         document.getElementById("results").innerHTML = '';
 
-        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Triassic.json", function(json) {
+        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Jurassic.json", function(json) {
             for (var i = 0; i < json.length; i++){
               var obj = json[i];
               if (obj.Country == countryName) {
                 var z = document.createElement('p'); // is a node
-                z.innerHTML = obj.Name;
+                z.innerHTML = obj.Name + "-" + obj.Diet;
                 document.getElementById("results").appendChild(z);
               }
             }
@@ -134,7 +184,7 @@
         function getDinosaurs(type) {
           document.getElementById("results").innerHTML = '';
           console.log(type);
-          $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Triassic.json", function(json) {
+          $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Jurassic.json", function(json) {
 
             if (country) {
               if (type == 'all') {
@@ -142,7 +192,7 @@
                   var obj = json[i];
                   if (obj.Country == countryName) {
                     var z = document.createElement('p'); // is a node
-                    z.innerHTML = obj.Name;
+                    z.innerHTML = obj.Name + "-" + obj.Diet;
                     document.getElementById("results").appendChild(z);
                   }
                 }
@@ -153,7 +203,7 @@
                       var obj = json[i];
                       if (obj.Country == countryName) {
                         var z = document.createElement('p'); // is a node
-                        z.innerHTML = obj.Name;
+                        z.innerHTML = obj.Name + "-" + obj.Diet;
                         document.getElementById("results").appendChild(z);
                       }
                     }
@@ -165,7 +215,7 @@
                   var obj = json[i];
                   if (obj.Continent == continentName) {
                     var z = document.createElement('p'); // is a node
-                    z.innerHTML = obj.Name;
+                    z.innerHTML = obj.Name + "-" + obj.Diet;
                     document.getElementById("results").appendChild(z);
                   }
                 }
@@ -176,7 +226,7 @@
                       var obj = json[i];
                       if (obj.Continent == continentName) {
                         var z = document.createElement('p'); // is a node
-                        z.innerHTML = obj.Name;
+                        z.innerHTML = obj.Name + "-" + obj.Diet;
                         document.getElementById("results").appendChild(z);
                       }
                     }
