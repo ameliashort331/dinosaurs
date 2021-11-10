@@ -1,1724 +1,1731 @@
 [
   {
-    "Algeria": "Lesotho",
-    "Africa": "Africa",
-    "Chebsaurus": "Aetonyx",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Algeria",
+    "Continent": "Africa",
+    "Name": "Chebsaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Lesotho",
-    "Africa": "Africa",
-    "Chebsaurus": "Fabrosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Lesotho",
+    "Continent": "Africa",
+    "Name": "Aetonyx",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Lesotho",
-    "Africa": "Africa",
-    "Chebsaurus": "Ignavusaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Lesotho",
+    "Continent": "Africa",
+    "Name": "Fabrosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Lesotho",
-    "Africa": "Africa",
-    "Chebsaurus": "Lesothosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Lesotho",
+    "Continent": "Africa",
+    "Name": "Ignavusaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Lesotho",
-    "Africa": "Africa",
-    "Chebsaurus": "Massospondylus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Lesotho",
+    "Continent": "Africa",
+    "Name": "Lesothosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Madagascar",
-    "Africa": "Africa",
-    "Chebsaurus": "Archaeodontosaurus",
-    "Jurassic": "Middle Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Lesotho",
+    "Continent": "Africa",
+    "Name": "Massospondylus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Madagascar",
-    "Africa": "Africa",
-    "Chebsaurus": "Lapparentosaurus",
-    "Jurassic": "Middle Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Madagascar",
+    "Continent": "Africa",
+    "Name": "Archaeodontosaurus",
+    "Period": "Middle Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Morocco",
-    "Africa": "Africa",
-    "Chebsaurus": "Adratiklit",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Madagascar",
+    "Continent": "Africa",
+    "Name": "Lapparentosaurus",
+    "Period": "Middle Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Morocco",
-    "Africa": "Africa",
-    "Chebsaurus": "Atlasaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Morocco",
+    "Continent": "Africa",
+    "Name": "Adratiklit",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Morocco",
-    "Africa": "Africa",
-    "Chebsaurus": "Berberosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Morocco",
+    "Continent": "Africa",
+    "Name": "Atlasaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Morocco",
-    "Africa": "Africa",
-    "Chebsaurus": "Cetiosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Morocco",
+    "Continent": "Africa",
+    "Name": "Berberosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Morocco",
-    "Africa": "Africa",
-    "Chebsaurus": "Tazoudasaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Morocco",
+    "Continent": "Africa",
+    "Name": "Cetiosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Niger",
-    "Africa": "Africa",
-    "Chebsaurus": "Afrovenator",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Morocco",
+    "Continent": "Africa",
+    "Name": "Tazoudasaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Niger",
-    "Africa": "Africa",
-    "Chebsaurus": "Jobaria",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Niger",
+    "Continent": "Africa",
+    "Name": "Afrovenator",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Niger",
-    "Africa": "Africa",
-    "Chebsaurus": "Spinophorosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Niger",
+    "Continent": "Africa",
+    "Name": "Jobaria",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Niger",
-    "Africa": "Africa",
-    "Chebsaurus": "Spinostropheus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Niger",
+    "Continent": "Africa",
+    "Name": "Spinophorosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "South Africa",
-    "Africa": "Africa",
-    "Chebsaurus": "Aardonyx",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Niger",
+    "Continent": "Africa",
+    "Name": "Spinostropheus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "South Africa",
-    "Africa": "Africa",
-    "Chebsaurus": "Abrictosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Aardonyx",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "South Africa",
-    "Africa": "Africa",
-    "Chebsaurus": "Aetonyx",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Abrictosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "South Africa",
-    "Africa": "Africa",
-    "Chebsaurus": "Algoasaurus",
-    "Jurassic": "Jurassic/Cretaceous",
-    "herbivore": "herbivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Aetonyx",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "South Africa",
-    "Africa": "Africa",
-    "Chebsaurus": "Antetonitrus",
-    "Jurassic": "Triassic or Jurassic",
-    "herbivore": "herbivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Algoasaurus",
+    "Period": "Jurassic/Cretaceous",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "South Africa",
-    "Africa": "Africa",
-    "Chebsaurus": "Arcusaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Antetonitrus",
+    "Period": "Triassic or Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "South Africa",
-    "Africa": "Africa",
-    "Chebsaurus": "Coelophysis",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Arcusaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "South Africa",
-    "Africa": "Africa",
-    "Chebsaurus": "Dracovenator",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Coelophysis",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "South Africa",
-    "Africa": "Africa",
-    "Chebsaurus": "Eocursor",
-    "Jurassic": "Triassic or Jurassic",
-    "herbivore": "herbivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Dracovenator",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "South Africa",
-    "Africa": "Africa",
-    "Chebsaurus": "Geranosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Eocursor",
+    "Period": "Triassic or Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "South Africa",
-    "Africa": "Africa",
-    "Chebsaurus": "Gyposaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Geranosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "South Africa",
-    "Africa": "Africa",
-    "Chebsaurus": "Gyposaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Gyposaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "South Africa",
-    "Africa": "Africa",
-    "Chebsaurus": "Heterodontosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "omnivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Gyposaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "South Africa",
-    "Africa": "Africa",
-    "Chebsaurus": "Lycorhinus",
-    "Jurassic": "Jurassic",
-    "herbivore": "omnivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Heterodontosaurus",
+    "Period": "Jurassic",
+    "Diet": "omnivore"
   },
   {
-    "Algeria": "South Africa",
-    "Africa": "Africa",
-    "Chebsaurus": "Massospondylus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Lycorhinus",
+    "Period": "Jurassic",
+    "Diet": "omnivore"
   },
   {
-    "Algeria": "South Africa",
-    "Africa": "Africa",
-    "Chebsaurus": "Ngwevu",
-    "Jurassic": "Jurassic",
-    "herbivore": "Herbivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Massospondylus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "South Africa",
-    "Africa": "Africa",
-    "Chebsaurus": "Pegomastax",
-    "Jurassic": "Jurassic",
-    "herbivore": "omnivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Ngwevu",
+    "Period": "Jurassic",
+    "Diet": "Herbivore"
   },
   {
-    "Algeria": "Tanzania",
-    "Africa": "Africa",
-    "Chebsaurus": "Allosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "South Africa",
+    "Continent": "Africa",
+    "Name": "Pegomastax",
+    "Period": "Jurassic",
+    "Diet": "omnivore"
   },
   {
-    "Algeria": "Tanzania",
-    "Africa": "Africa",
-    "Chebsaurus": "Allosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Tanzania",
+    "Continent": "Africa",
+    "Name": "Allosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Tanzania",
-    "Africa": "Africa",
-    "Chebsaurus": "Australodocus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Tanzania",
+    "Continent": "Africa",
+    "Name": "Allosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Tanzania",
-    "Africa": "Africa",
-    "Chebsaurus": "Dicraeosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Tanzania",
+    "Continent": "Africa",
+    "Name": "Australodocus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Tanzania",
-    "Africa": "Africa",
-    "Chebsaurus": "Dysalotosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Tanzania",
+    "Continent": "Africa",
+    "Name": "Dicraeosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Tanzania",
-    "Africa": "Africa",
-    "Chebsaurus": "Elaphrosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Tanzania",
+    "Continent": "Africa",
+    "Name": "Dysalotosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Tanzania",
-    "Africa": "Africa",
-    "Chebsaurus": "Giraffatitan",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Tanzania",
+    "Continent": "Africa",
+    "Name": "Elaphrosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Tanzania",
-    "Africa": "Africa",
-    "Chebsaurus": "Janenschia",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Tanzania",
+    "Continent": "Africa",
+    "Name": "Giraffatitan",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Tanzania",
-    "Africa": "Africa",
-    "Chebsaurus": "Kentrosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Tanzania",
+    "Continent": "Africa",
+    "Name": "Janenschia",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Tanzania",
-    "Africa": "Africa",
-    "Chebsaurus": "Ostafrikasaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Tanzania",
+    "Continent": "Africa",
+    "Name": "Kentrosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Tanzania",
-    "Africa": "Africa",
-    "Chebsaurus": "Tendaguria",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Tanzania",
+    "Continent": "Africa",
+    "Name": "Ostafrikasaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Tanzania",
-    "Africa": "Africa",
-    "Chebsaurus": "Tornieria",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Tanzania",
+    "Continent": "Africa",
+    "Name": "Tendaguria",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Tanzania",
-    "Africa": "Africa",
-    "Chebsaurus": "Veterupristisaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Tanzania",
+    "Continent": "Africa",
+    "Name": "Tornieria",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Tanzania",
-    "Africa": "Africa",
-    "Chebsaurus": "Wamweracaudia",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Tanzania",
+    "Continent": "Africa",
+    "Name": "Veterupristisaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Zimbabwe",
-    "Africa": "Africa",
-    "Chebsaurus": "Aetonyx",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Tanzania",
+    "Continent": "Africa",
+    "Name": "Wamweracaudia",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Zimbabwe",
-    "Africa": "Africa",
-    "Chebsaurus": "Coelophysis",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Zimbabwe",
+    "Continent": "Africa",
+    "Name": "Aetonyx",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Zimbabwe",
-    "Africa": "Africa",
-    "Chebsaurus": "Massospondylus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Zimbabwe",
+    "Continent": "Africa",
+    "Name": "Coelophysis",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Zimbabwe",
-    "Africa": "Africa",
-    "Chebsaurus": "Vulcanodon",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Zimbabwe",
+    "Continent": "Africa",
+    "Name": "Massospondylus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Abrosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Zimbabwe",
+    "Continent": "Africa",
+    "Name": "Vulcanodon",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Agilisaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Abrosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Anchiornis",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Agilisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Aorun",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Anchiornis",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Aurornis",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Aorun",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Bellusaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Aurornis",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Bienosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Bellusaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Changdusaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Bienosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Chaoyangsaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Changdusaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Chialingosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Chaoyangsaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Chiayusaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Chialingosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Chinshakiangosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Chiayusaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Chuandongocoelurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Chinshakiangosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Chuanjiesaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Chuandongocoelurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Chungkingosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Chuanjiesaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Chuxiongosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Chungkingosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Daanosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Chuxiongosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Dachongosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Daanosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Damalasaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Dachongosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Dashanpusaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Damalasaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Datousaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Dashanpusaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Eomamenchisaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Datousaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Eosinopteryx",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Eomamenchisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Epidendrosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Eosinopteryx",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Epidexipteryx",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Epidendrosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Eshanosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Epidexipteryx",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Eugongbusaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Eshanosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Fulengia",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Eugongbusaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Fushanosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Fulengia",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Gasosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Fushanosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Gigantspinosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Gasosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Gongbusaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Gigantspinosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Gongxianosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Gongbusaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Guanlong",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Gongxianosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Haplocheirus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Guanlong",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Hexinlusaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Haplocheirus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Huayangosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Hexinlusaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Hudiesaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Huayangosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Jiangjunosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Hudiesaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Jinfengopteryx",
-    "Jurassic": "Jurassic/Cretaceous",
-    "herbivore": "omnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Jiangjunosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Jingshanosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Jinfengopteryx",
+    "Period": "Jurassic/Cretaceous",
+    "Diet": "omnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Kaijiangosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Jingshanosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Klamelisaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Kaijiangosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Kunmingosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Klamelisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Lancanjiangosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Kunmingosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Leshansaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Lancanjiangosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Limusaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Leshansaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Lingwulong",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Limusaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Lufengosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Lingwulong",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Mamenchisaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Lufengosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Monkonosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Mamenchisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Monolophosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Monkonosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Nebulasaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Monolophosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Ngexisaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Nebulasaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Omeisaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Ngexisaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Oshanosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Omeisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Pachysuchus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Oshanosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Pedopenna",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Pachysuchus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Protognathosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Pedopenna",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Sangonghesaurus",
-    "Jurassic": "Jurassic/Cretaceous",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Protognathosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Sanpasaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Sangonghesaurus",
+    "Period": "Jurassic/Cretaceous",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Scansoriopteryx",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Sanpasaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Shidaisaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Scansoriopteryx",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Shishugounykus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Shidaisaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Shunosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Shishugounykus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Sinocoelurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Shunosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Sinosaurus",
-    "Jurassic": "Triassic/Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Sinocoelurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Sinraptor",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Sinosaurus",
+    "Period": "Triassic/Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Szechuanoraptor",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Sinraptor",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Szechuanosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Szechuanoraptor",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Tatisaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Szechuanosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Tianchisaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Tatisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Tianyulong",
-    "Jurassic": "Jurassic",
-    "herbivore": "omnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Tianchisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Tienshanosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Tianyulong",
+    "Period": "Jurassic",
+    "Diet": "omnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Tonganosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Tienshanosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Tuojiangosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Tonganosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Xiaosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Tuojiangosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Xiaotingia",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Xiaosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Xinjiangtitan",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Xiaotingia",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Xixiposaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "omnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Xinjiangtitan",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Xuanhanosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Xixiposaurus",
+    "Period": "Jurassic",
+    "Diet": "omnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Xuanhuaceratops",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Xuanhanosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Yandusaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Xuanhuaceratops",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Yangchuanosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Yandusaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Yibinosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Yangchuanosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Yimenosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Yibinosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Yingshanosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Yimenosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Yinlong",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Yingshanosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Yizhousaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Yinlong",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Yuanmousaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Yizhousaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Yunnanosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Yuanmousaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Zigongosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Yunnanosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Zizhongosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Zigongosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "China",
-    "Africa": "Asia",
-    "Chebsaurus": "Zuolong",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Zizhongosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "India",
-    "Africa": "Asia",
-    "Chebsaurus": "Barapasaurus",
-    "Jurassic": "Early Jurassic",
-    "herbivore": "herbivore"
+    "Country": "China",
+    "Continent": "Asia",
+    "Name": "Zuolong",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "India",
-    "Africa": "Asia",
-    "Chebsaurus": "Dandakosaurus",
-    "Jurassic": "Early Jurassic",
-    "herbivore": "carnivore"
+    "Country": "India",
+    "Continent": "Asia",
+    "Name": "Barapasaurus",
+    "Period": "Early Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "India",
-    "Africa": "Asia",
-    "Chebsaurus": "Kotasaurus",
-    "Jurassic": "Early Jurassic",
-    "herbivore": "herbivore"
+    "Country": "India",
+    "Continent": "Asia",
+    "Name": "Dandakosaurus",
+    "Period": "Early Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "India",
-    "Africa": "Asia",
-    "Chebsaurus": "Lamplughsaura",
-    "Jurassic": "Early Jurassic",
-    "herbivore": "herbivore"
+    "Country": "India",
+    "Continent": "Asia",
+    "Name": "Kotasaurus",
+    "Period": "Early Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "India",
-    "Africa": "Asia",
-    "Chebsaurus": "Pradhania",
-    "Jurassic": "Early Jurassic",
-    "herbivore": "omnivore"
+    "Country": "India",
+    "Continent": "Asia",
+    "Name": "Lamplughsaura",
+    "Period": "Early Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Kyrgyzstan",
-    "Africa": "Asia",
-    "Chebsaurus": "Ferganasaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "India",
+    "Continent": "Asia",
+    "Name": "Pradhania",
+    "Period": "Early Jurassic",
+    "Diet": "omnivore"
   },
   {
-    "Algeria": "Kyrgyzstan",
-    "Africa": "Asia",
-    "Chebsaurus": "Ferganocephale",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Kyrgyzstan",
+    "Continent": "Asia",
+    "Name": "Ferganasaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Mongolia",
-    "Africa": "Asia",
-    "Chebsaurus": "Mamenchisaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Kyrgyzstan",
+    "Continent": "Asia",
+    "Name": "Ferganocephale",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Pakistan",
-    "Africa": "Asia",
-    "Chebsaurus": "Brohisaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Mongolia",
+    "Continent": "Asia",
+    "Name": "Mamenchisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Russia",
-    "Africa": "Asia",
-    "Chebsaurus": "Kileskus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Pakistan",
+    "Continent": "Asia",
+    "Name": "Brohisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Russia",
-    "Africa": "Asia",
-    "Chebsaurus": "Kulindadromeus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Russia",
+    "Continent": "Asia",
+    "Name": "Kileskus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Russia",
-    "Africa": "Europe",
-    "Chebsaurus": "Kileskus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Russia",
+    "Continent": "Asia",
+    "Name": "Kulindadromeus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Russia",
-    "Africa": "Europe",
-    "Chebsaurus": "Kulindadromeus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Russia",
+    "Continent": "Europe",
+    "Name": "Kileskus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Thailand",
-    "Africa": "Asia",
-    "Chebsaurus": "Mamenchisaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Russia",
+    "Continent": "Europe",
+    "Name": "Kulindadromeus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Austria",
-    "Africa": "Europe",
-    "Chebsaurus": "Megalosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Thailand",
+    "Continent": "Asia",
+    "Name": "Mamenchisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Belgium",
-    "Africa": "Europe",
-    "Chebsaurus": "Megalosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Austria",
+    "Continent": "Europe",
+    "Name": "Megalosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "France",
-    "Africa": "Europe",
-    "Chebsaurus": "Cetiosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Belgium",
+    "Continent": "Europe",
+    "Name": "Megalosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "France",
-    "Africa": "Europe",
-    "Chebsaurus": "Compsognathus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "France",
+    "Continent": "Europe",
+    "Name": "Cetiosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "France",
-    "Africa": "Europe",
-    "Chebsaurus": "Dacentrurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "France",
+    "Continent": "Europe",
+    "Name": "Compsognathus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "France",
-    "Africa": "Europe",
-    "Chebsaurus": "Dubreuillosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "France",
+    "Continent": "Europe",
+    "Name": "Dacentrurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "France",
-    "Africa": "Europe",
-    "Chebsaurus": "Lexovisaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "France",
+    "Continent": "Europe",
+    "Name": "Dubreuillosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "France",
-    "Africa": "Europe",
-    "Chebsaurus": "Lophostropheus",
-    "Jurassic": "Triassic/Jurassic",
-    "herbivore": "carnivore"
+    "Country": "France",
+    "Continent": "Europe",
+    "Name": "Lexovisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "France",
-    "Africa": "Europe",
-    "Chebsaurus": "Megalosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "France",
+    "Continent": "Europe",
+    "Name": "Lophostropheus",
+    "Period": "Triassic/Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "France",
-    "Africa": "Europe",
-    "Chebsaurus": "Neosodon",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "France",
+    "Continent": "Europe",
+    "Name": "Megalosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "France",
-    "Africa": "Europe",
-    "Chebsaurus": "Piveteausaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "France",
+    "Continent": "Europe",
+    "Name": "Neosodon",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "France",
-    "Africa": "Europe",
-    "Chebsaurus": "Streptospondylus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "France",
+    "Continent": "Europe",
+    "Name": "Piveteausaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "France",
-    "Africa": "Europe",
-    "Chebsaurus": "Vouivria",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "France",
+    "Continent": "Europe",
+    "Name": "Streptospondylus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Germany",
-    "Africa": "Europe",
-    "Chebsaurus": "Archaeopteryx",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "France",
+    "Continent": "Europe",
+    "Name": "Vouivria",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Germany",
-    "Africa": "Europe",
-    "Chebsaurus": "Compsognathus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Germany",
+    "Continent": "Europe",
+    "Name": "Archaeopteryx",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Germany",
-    "Africa": "Europe",
-    "Chebsaurus": "Emausaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Germany",
+    "Continent": "Europe",
+    "Name": "Compsognathus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Germany",
-    "Africa": "Europe",
-    "Chebsaurus": "Europasaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Germany",
+    "Continent": "Europe",
+    "Name": "Emausaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Germany",
-    "Africa": "Europe",
-    "Chebsaurus": "Juravenator",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Germany",
+    "Continent": "Europe",
+    "Name": "Europasaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Germany",
-    "Africa": "Europe",
-    "Chebsaurus": "Ohmdenosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Germany",
+    "Continent": "Europe",
+    "Name": "Juravenator",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Germany",
-    "Africa": "Europe",
-    "Chebsaurus": "Sciurumimus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Germany",
+    "Continent": "Europe",
+    "Name": "Ohmdenosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Germany",
-    "Africa": "Europe",
-    "Chebsaurus": "Wellnhoferia",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Germany",
+    "Continent": "Europe",
+    "Name": "Sciurumimus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Italy",
-    "Africa": "Europe",
-    "Chebsaurus": "Saltriovenator",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Germany",
+    "Continent": "Europe",
+    "Name": "Wellnhoferia",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Portugal",
-    "Africa": "Europe",
-    "Chebsaurus": "Allosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Italy",
+    "Continent": "Europe",
+    "Name": "Saltriovenator",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Portugal",
-    "Africa": "Europe",
-    "Chebsaurus": "Allosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "Name": "Allosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Portugal",
-    "Africa": "Europe",
-    "Chebsaurus": "Alocodon",
-    "Jurassic": "Jurassic",
-    "herbivore": "(herbivore)"
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "Name": "Allosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Portugal",
-    "Africa": "Europe",
-    "Chebsaurus": "Aviatyrannis",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "Name": "Alocodon",
+    "Period": "Jurassic",
+    "Diet": "(herbivore)"
   },
   {
-    "Algeria": "Portugal",
-    "Africa": "Europe",
-    "Chebsaurus": "Ceratosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "Name": "Aviatyrannis",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Portugal",
-    "Africa": "Europe",
-    "Chebsaurus": "Dacentrurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "Name": "Ceratosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Portugal",
-    "Africa": "Europe",
-    "Chebsaurus": "Dinheirosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "Name": "Dacentrurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Portugal",
-    "Africa": "Europe",
-    "Chebsaurus": "Draconyx",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "Name": "Dinheirosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Portugal",
-    "Africa": "Europe",
-    "Chebsaurus": "Dracopelta",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "Name": "Draconyx",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Portugal",
-    "Africa": "Europe",
-    "Chebsaurus": "Dryosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "Name": "Dracopelta",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Portugal",
-    "Africa": "Europe",
-    "Chebsaurus": "Eousdryosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "Name": "Dryosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Portugal",
-    "Africa": "Europe",
-    "Chebsaurus": "Lourinhanosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "Name": "Eousdryosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Portugal",
-    "Africa": "Europe",
-    "Chebsaurus": "Lourinhasaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "Name": "Lourinhanosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Portugal",
-    "Africa": "Europe",
-    "Chebsaurus": "Lusitanosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "Name": "Lourinhasaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Portugal",
-    "Africa": "Europe",
-    "Chebsaurus": "Lusotitan",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "Name": "Lusitanosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Portugal",
-    "Africa": "Europe",
-    "Chebsaurus": "Miragaia",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "Name": "Lusotitan",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Portugal",
-    "Africa": "Europe",
-    "Chebsaurus": "Phyllodon",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "Name": "Miragaia",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Portugal",
-    "Africa": "Europe",
-    "Chebsaurus": "Stegosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "Name": "Phyllodon",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Portugal",
-    "Africa": "Europe",
-    "Chebsaurus": "Teinurosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "Name": "Stegosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Portugal",
-    "Africa": "Europe",
-    "Chebsaurus": "Torvosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "Name": "Teinurosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Portugal",
-    "Africa": "Europe",
-    "Chebsaurus": "Trimucrodon",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "Name": "Torvosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Portugal",
-    "Africa": "Europe",
-    "Chebsaurus": "Turiasaurus",
-    "Jurassic": "Jurassic/Cretaceous",
-    "herbivore": "herbivore"
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "Name": "Trimucrodon",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Portugal",
-    "Africa": "Europe",
-    "Chebsaurus": "Zby",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "Name": "Turiasaurus",
+    "Period": "Jurassic/Cretaceous",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Romania",
-    "Africa": "Europe",
-    "Chebsaurus": "Megalosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "Portugal",
+    "Continent": "Europe",
+    "Name": "Zby",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Spain",
-    "Africa": "Europe",
-    "Chebsaurus": "Dacentrurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Romania",
+    "Continent": "Europe",
+    "Name": "Megalosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Spain",
-    "Africa": "Europe",
-    "Chebsaurus": "Galvesaurus",
-    "Jurassic": "Jurassic/Cretaceous",
-    "herbivore": "herbivore"
+    "Country": "Spain",
+    "Continent": "Europe",
+    "Name": "Dacentrurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Spain",
-    "Africa": "Europe",
-    "Chebsaurus": "Losillasaurus",
-    "Jurassic": "Jurassic/Cretaceous",
-    "herbivore": "herbivore"
+    "Country": "Spain",
+    "Continent": "Europe",
+    "Name": "Galvesaurus",
+    "Period": "Jurassic/Cretaceous",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Spain",
-    "Africa": "Europe",
-    "Chebsaurus": "Turiasaurus",
-    "Jurassic": "Jurassic/Cretaceous",
-    "herbivore": "herbivore"
+    "Country": "Spain",
+    "Continent": "Europe",
+    "Name": "Losillasaurus",
+    "Period": "Jurassic/Cretaceous",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Switzerland",
-    "Africa": "Europe",
-    "Chebsaurus": "Cetiosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Spain",
+    "Continent": "Europe",
+    "Name": "Turiasaurus",
+    "Period": "Jurassic/Cretaceous",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Bothriospondylus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Switzerland",
+    "Continent": "Europe",
+    "Name": "Cetiosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Callovosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Bothriospondylus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Cardiodon",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Callovosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Cetiosauriscus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Cardiodon",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Cetiosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Cetiosauriscus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Cruxicheiros",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Cetiosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Cryptosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Cruxicheiros",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Cumnoria",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Cryptosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Dacentrurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Cumnoria",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Dracoraptor",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Dacentrurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Duriatitan",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Dracoraptor",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Duriavenator",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Duriatitan",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Eustreptospondylus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Duriavenator",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Ischyrosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Eustreptospondylus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Juratyrant",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Ischyrosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Lexovisaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Juratyrant",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Liassaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "(unknown)"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Lexovisaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Magnosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Liassaurus",
+    "Period": "Jurassic",
+    "Diet": "(unknown)"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Megalosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Magnosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Merosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Megalosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Metriacanthosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Merosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Poekilopleuron",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Metriacanthosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Priodontognathus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Poekilopleuron",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Proceratosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Priodontognathus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Sarcolestes",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Proceratosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Sarcosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Sarcolestes",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "United Kingdom",
-    "Africa": "Europe",
-    "Chebsaurus": "Scelidosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Sarcosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "United States of America",
-    "Africa": "North America",
-    "Chebsaurus": "Allosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "United Kingdom",
+    "Continent": "Europe",
+    "Name": "Scelidosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "United States of America",
-    "Africa": "North America",
-    "Chebsaurus": "Allosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "United States of America",
+    "Continent": "North America",
+    "Name": "Allosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "United States of America",
-    "Africa": "North America",
-    "Chebsaurus": "Ceratosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "United States of America",
+    "Continent": "North America",
+    "Name": "Allosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "United States of America",
-    "Africa": "North America",
-    "Chebsaurus": "Coelophysis",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "United States of America",
+    "Continent": "North America",
+    "Name": "Ceratosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "United States of America",
-    "Africa": "North America",
-    "Chebsaurus": "Dryosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "United States of America",
+    "Continent": "North America",
+    "Name": "Coelophysis",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "United States of America",
-    "Africa": "North America",
-    "Chebsaurus": "Stegosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "herbivore"
+    "Country": "United States of America",
+    "Continent": "North America",
+    "Name": "Dryosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "United States of America",
-    "Africa": "North America",
-    "Chebsaurus": "Torvosaurus",
-    "Jurassic": "Jurassic",
-    "herbivore": "carnivore"
+    "Country": "United States of America",
+    "Continent": "North America",
+    "Name": "Stegosaurus",
+    "Period": "Jurassic",
+    "Diet": "herbivore"
   },
   {
-    "Algeria": "Australia",
-    "Africa": "Oceania",
-    "Chebsaurus": "Ozraptor",
-    "Jurassic": "Middle Jurassic",
-    "herbivore": "carnivore"
+    "Country": "United States of America",
+    "Continent": "North America",
+    "Name": "Torvosaurus",
+    "Period": "Jurassic",
+    "Diet": "carnivore"
   },
   {
-    "Algeria": "Australia",
-    "Africa": "Oceania",
-    "Chebsaurus": "Rhoetosaurus",
-    "Jurassic": "Middle Jurassic",
-    "herbivore": "herbivore"
+    "Country": "Australia",
+    "Continent": "Oceania",
+    "Name": "Ozraptor",
+    "Period": "Middle Jurassic",
+    "Diet": "carnivore"
+  },
+  {
+    "Country": "Australia",
+    "Continent": "Oceania",
+    "Name": "Rhoetosaurus",
+    "Period": "Middle Jurassic",
+    "Diet": "herbivore"
   }
 ]
