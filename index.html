@@ -13,7 +13,7 @@
 
   </head>
   <body>
-    <p style = "font-size:2em;font-family:Julius Sans One">Jurassic period</p>
+    <p style = "font-size:2em;font-family:Julius Sans One">Cretaceous period</p>
     <!-- The Modal -->
     <div id="myModal" class="modal">
 
@@ -73,7 +73,7 @@
 
       console.log("uhh");
 
-        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Jurassic.json", function(json) {
+        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Cretaceous.json", function(json) {
             for (var i = 0; i < json.length; i++){
               var obj = json[i];
               countries.push(obj["Country"]);
@@ -135,7 +135,7 @@
       }
 
       function getContinent(countryName) {
-        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Jurassic.json", function(json) {
+        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Cretaceous.json", function(json) {
         for (var i = 0; i < json.length; i++){
           var obj = json[i];
           if (obj.Country == countryName) {
@@ -153,7 +153,7 @@
         document.getElementById("continentToggle").innerHTML = "Switch to all dinosaurs from " + countryName + " <i style = \"margin-left:2%\" class=\"fas fa-sync\" onclick = \"switchToCountry('" + countryName + "')\"></i>";
         document.getElementById("results").innerHTML = '';
 
-        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Jurassic.json", function(json) {
+        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Cretaceous.json", function(json) {
             for (var i = 0; i < json.length; i++){
               var obj = json[i];
               if (obj.Continent == continentName) {
@@ -171,7 +171,7 @@
         document.getElementById("continentToggle").innerHTML = "Switch to all dinosaurs from " + continentName + " <i style = \"margin-left:2%\" class=\"fas fa-sync\" onclick = \"switchToContinent('" + continentName + "')\"></i>";
         document.getElementById("results").innerHTML = '';
 
-        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Jurassic.json", function(json) {
+        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Cretaceous.json", function(json) {
             for (var i = 0; i < json.length; i++){
               var obj = json[i];
               if (obj.Country == countryName) {
@@ -186,7 +186,7 @@
         function getDinosaurs(type) {
           document.getElementById("results").innerHTML = '';
           console.log(type);
-          $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Jurassic.json", function(json) {
+          $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Cretaceous.json", function(json) {
 
             if (country) {
               if (type == 'all') {

@@ -1,0 +1,54 @@
+[
+  {
+    "Country": "China",
+    "Diet": "carnivore"
+  },
+  {
+    "Country": "France",
+    "Diet": "carnivore"
+  },
+  {
+    "Country": "Germany",
+    "Diet": "carnivore"
+  },
+  {
+    "Country": "India",
+    "Diet": "omnivore"
+  },
+  {
+    "Country": "Lesotho",
+    "Diet": "herbivore"
+  },
+  {
+    "Country": "Norway",
+    "Diet": "herbivore"
+  },
+  {
+    "Country": "Poland",
+    "Diet": "carnivore"
+  },
+  {
+    "Country": "South Africa",
+    "Diet": "herbivore"
+  },
+  {
+    "Country": "Switzerland",
+    "Diet": "herbivore"
+  },
+  {
+    "Country": "Tanzania",
+    "Diet": "carnivore"
+  },
+  {
+    "Country": "Thailand",
+    "Diet": "herbivore"
+  },
+  {
+    "Country": "United Kingdom",
+    "Diet": "herbivore"
+  },
+  {
+    "Country": "Zimbabwe",
+    "Diet": "herbivore"
+  }
+]

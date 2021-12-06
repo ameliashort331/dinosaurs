@@ -1,0 +1,110 @@
+[
+  {
+    "Country": "Algeria",
+    "Diet": "herbivore"
+  },
+  {
+    "Country": "Australia",
+    "Diet": "carnivore"
+  },
+  {
+    "Country": "Austria",
+    "Diet": "carnivore"
+  },
+  {
+    "Country": "Belgium",
+    "Diet": "carnivore"
+  },
+  {
+    "Country": "China",
+    "Diet": "herbivore"
+  },
+  {
+    "Country": "France",
+    "Diet": "carnivore"
+  },
+  {
+    "Country": "Germany",
+    "Diet": "carnivore"
+  },
+  {
+    "Country": "India",
+    "Diet": "herbivore"
+  },
+  {
+    "Country": "Italy",
+    "Diet": "carnivore"
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Diet": "herbivore"
+  },
+  {
+    "Country": "Lesotho",
+    "Diet": "herbivore"
+  },
+  {
+    "Country": "Madagascar",
+    "Diet": "herbivore"
+  },
+  {
+    "Country": "Mongolia",
+    "Diet": "herbivore"
+  },
+  {
+    "Country": "Morocco",
+    "Diet": "herbivore"
+  },
+  {
+    "Country": "Niger",
+    "Diet": "carnivore"
+  },
+  {
+    "Country": "Pakistan",
+    "Diet": "herbivore"
+  },
+  {
+    "Country": "Portugal",
+    "Diet": "herbivore"
+  },
+  {
+    "Country": "Romania",
+    "Diet": "carnivore"
+  },
+  {
+    "Country": "Russia",
+    "Diet": "carnivore"
+  },
+  {
+    "Country": "South Africa",
+    "Diet": "herbivore"
+  },
+  {
+    "Country": "Spain",
+    "Diet": "herbivore"
+  },
+  {
+    "Country": "Switzerland",
+    "Diet": "herbivore"
+  },
+  {
+    "Country": "Tanzania",
+    "Diet": "herbivore"
+  },
+  {
+    "Country": "Thailand",
+    "Diet": "herbivore"
+  },
+  {
+    "Country": "United Kingdom",
+    "Diet": "herbivore"
+  },
+  {
+    "Country": "United States of America",
+    "Diet": "carnivore"
+  },
+  {
+    "Country": "Zimbabwe",
+    "Diet": "herbivore"
+  }
+]
