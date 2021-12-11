@@ -1,0 +1,542 @@
+{
+  "Triassic": {
+    "Lesotho": {
+      "herbivore": 2,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "South Africa": {
+      "herbivore": 7,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 1
+    },
+    "Tanzania": {
+      "herbivore": 0,
+      "carnivore": 1,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Zimbabwe": {
+      "herbivore": 1,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "China": {
+      "herbivore": 0,
+      "carnivore": 1,
+      "omnivore": 0,
+      "other": 0
+    },
+    "India": {
+      "herbivore": 1,
+      "carnivore": 0,
+      "omnivore": 2,
+      "other": 0
+    },
+    "Thailand": {
+      "herbivore": 1,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "France": {
+      "herbivore": 0,
+      "carnivore": 1,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Germany": {
+      "herbivore": 3,
+      "carnivore": 6,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Norway": {
+      "herbivore": 1,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Poland": {
+      "herbivore": 0,
+      "carnivore": 1,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Switzerland": {
+      "herbivore": 1,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "United Kingdom": {
+      "herbivore": 5,
+      "carnivore": 1,
+      "omnivore": 0,
+      "other": 1
+    },
+    "Africa": {
+      "herbivore": 10,
+      "carnivore": 1,
+      "omnivore": 0,
+      "other": 1
+    },
+    "Asia": {
+      "herbivore": 2,
+      "carnivore": 1,
+      "omnivore": 2,
+      "other": 0
+    },
+    "Europe": {
+      "herbivore": 11,
+      "carnivore": 9,
+      "omnivore": 1,
+      "other": 0
+    }
+  },
+ "Jurassic": {
+    "Algeria": {
+      "herbivore": 1,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Lesotho": {
+      "herbivore": 5,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Madagascar": {
+      "herbivore": 2,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Morocco": {
+      "herbivore": 4,
+      "carnivore": 1,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Niger": {
+      "herbivore": 2,
+      "carnivore": 2,
+      "omnivore": 0,
+      "other": 0
+    },
+    "South Africa": {
+      "herbivore": 12,
+      "carnivore": 2,
+      "omnivore": 3,
+      "other": 0
+    },
+    "Tanzania": {
+      "herbivore": 9,
+      "carnivore": 5,
+      "omnivore": 3,
+      "other": 0
+    },
+    "Zimbabwe": {
+      "herbivore": 2,
+      "carnivore": 1,
+      "omnivore": 0,
+      "other": 0
+    },
+    "China": {
+      "herbivore": 65,
+      "carnivore": 26,
+      "omnivore": 3,
+      "other": 0
+    },
+    "India": {
+      "herbivore": 2,
+      "carnivore": 1,
+      "omnivore": 1,
+      "other": 0
+    },
+    "Kyrgyzstan": {
+      "herbivore": 2,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Mongolia": {
+      "herbivore": 1,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Pakistan": {
+      "herbivore": 1,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Russia": {
+      "herbivore": 2,
+      "carnivore": 2,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Thailand": {
+      "herbivore": 1,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Austria": {
+      "herbivore": 0,
+      "carnivore": 1,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Belgium": {
+      "herbivore": 0,
+      "carnivore": 1,
+      "omnivore": 0,
+      "other": 0
+    },
+    "France": {
+      "herbivore": 5,
+      "carnivore": 6,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Germany": {
+      "herbivore": 5,
+      "carnivore": 3,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Italy": {
+      "herbivore": 0,
+      "carnivore": 1,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Portugal": {
+      "herbivore": 16,
+      "carnivore": 8,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Spain": {
+      "herbivore": 4,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Switzerland": {
+      "herbivore": 1,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "United Kingdom": {
+      "herbivore": 14,
+      "carnivore": 12,
+      "omnivore": 0,
+      "other": 1
+    },
+    "United States of America": {
+      "herbivore": 2,
+      "carnivore": 5,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Australia": {
+      "herbivore": 1,
+      "carnivore": 1,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Africa": {
+      "herbivore": 38,
+      "carnivore": 11,
+      "omnivore": 3,
+      "other": 0
+    },
+    "Asia": {
+      "herbivore": 74,
+      "carnivore": 28,
+      "omnivore": 4,
+      "other": 0
+    },
+    "Europe": {
+      "herbivore": 44,
+      "carnivore": 35,
+      "omnivore": 0,
+      "other": 1
+    },
+    "North America": {
+      "herbivore": 2,
+      "carnivore": 5,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Oceania": {
+      "herbivore": 1,
+      "carnivore": 1,
+      "omnivore": 0,
+      "other": 0
+    }
+  }, 
+  "Cretaceous": {
+    "Algeria": {
+      "herbivore": 0,
+      "carnivore": 3,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Angola": {
+      "herbivore": 1,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Egypt": {
+      "herbivore": 2,
+      "carnivore": 5,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Madagascar": {
+      "herbivore": 2,
+      "carnivore": 6,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Malawi": {
+      "herbivore": 2,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Morocco": {
+      "herbivore": 7,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Niger": {
+      "herbivore": 6,
+      "carnivore": 7,
+      "omnivore": 0,
+      "other": 0
+    },
+    "South Africa": {
+      "herbivore": 3,
+      "carnivore": 0,
+      "omnivore": 1,
+      "other": 0
+    },
+    "Tanzania": {
+      "herbivore": 1,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Tunisia": {
+      "herbivore": 2,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "China": {
+      "herbivore": 95,
+      "carnivore": 39,
+      "omnivore": 20,
+      "other": 4
+    },
+    "India": {
+      "herbivore": 5,
+      "carnivore": 12,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Japan": {
+      "herbivore": 8,
+      "carnivore": 3,
+      "omnivore": 0,
+      "other": 1
+    },
+    "Kazakhstan": {
+      "herbivore": 10,
+      "carnivore": 3,
+      "omnivore": 0,
+      "other": 1
+    },
+    "Laos": {
+      "herbivore": 2,
+      "carnivore": 1,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Mongolia": {
+      "herbivore": 50,
+      "carnivore": 32,
+      "omnivore": 23,
+      "other": 1
+    },
+    "Pakistan": {
+      "herbivore": 50,
+      "carnivore": 32,
+      "omnivore": 23,
+      "other": 1
+    },
+    "Russia": {
+      "herbivore": 20,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "South Korea": {
+      "herbivore": 5,
+      "carnivore": 1,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Thailand": {
+      "herbivore": 5,
+      "carnivore": 5,
+      "omnivore": 1,
+      "other": 0
+    },
+    "Uzbekistan": {
+      "herbivore": 5,
+      "carnivore": 3,
+      "omnivore": 1,
+      "other": 0
+    },
+    "Austria": {
+      "herbivore": 3,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Belgium": {
+      "herbivore": 4,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Croatia": {
+      "herbivore": 1,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Denmark": {
+      "herbivore": 0,
+      "carnivore": 1,
+      "omnivore": 0,
+      "other": 0
+    },
+    "France": {
+      "herbivore": 12,
+      "carnivore": 5,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Germany": {
+      "herbivore": 2,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Hungary": {
+      "herbivore": 4,
+      "carnivore": 1,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Italy": {
+      "herbivore": 1,
+      "carnivore": 1,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Netherlands": {
+      "herbivore": 1,
+      "carnivore": 1,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Portugal": {
+      "herbivore": 3,
+      "carnivore": 2,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Romania": {
+      "herbivore": 9,
+      "carnivore": 3,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Spain": {
+      "herbivore": 22,
+      "carnivore": 5,
+      "omnivore": 0,
+      "other": 0
+    },
+    "United Kingdom": {
+      "herbivore": 32,
+      "carnivore": 16,
+      "omnivore": 1,
+      "other": 0
+    },
+    "Canada": {
+      "herbivore": 1,
+      "carnivore": 0,
+      "omnivore": 1,
+      "other": 0
+    },
+    "United States of America": {
+      "herbivore": 2,
+      "carnivore": 0,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Australia": {
+      "herbivore": 16,
+      "carnivore": 3,
+      "omnivore": 0,
+      "other": 2
+    },
+    "Africa": {
+      "herbivore": 20,
+      "carnivore": 26,
+      "omnivore": 1,
+      "other": 0
+    },
+    "Asia": {
+      "herbivore": 186,
+      "carnivore": 98,
+      "omnivore": 45,
+      "other": 6
+    },
+    "Europe": {
+      "herbivore": 114,
+      "carnivore": 35,
+      "omnivore": 2,
+      "other": 6
+    },
+    "North America": {
+      "herbivore": 3,
+      "carnivore": 1,
+      "omnivore": 0,
+      "other": 0
+    },
+    "Oceania": {
+      "herbivore": 16,
+      "carnivore": 3,
+      "omnivore": 0,
+      "other": 2
+    }
+  }
+}

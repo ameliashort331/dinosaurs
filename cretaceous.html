@@ -1,0 +1,379 @@
+<html>
+  <head>
+    <script src="https://kit.fontawesome.com/aede5f8533.js" crossorigin="anonymous"></script>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="index.css">
+
+    <link href="d3-geomap/d3-geomap.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="jquery-csv.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Monda&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bitter&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  </head>
+  <body>
+
+
+    <div id="modal" class="modal open" style = "display:none">
+      <div class="modal-container"><div class="container-top" style = "text-align:center;min-height:30%;">
+        <p style = "font-family: Fjalla One;color:white;letter-spacing: -2px;font-size:68px;padding-top:90px;">DINOSAURS: BACK FOR ANOTHER BITE</p>
+
+      </div>
+        <div class="modal-content">
+
+          <p style = "font-family:Bitter;font-size:20px;">
+            The <a class="highlight" href="#"><span>Mesozoic Era</span></a>, an interval of Earth history from about 230 million to 65 million years ago, comprises three geologic time periods: <a class="highlight" href="#"><span>Triassic</span></a>, <a class="highlight" href="#"><span>Jurassic</span></a>, and <a class="highlight" href="#"><span>Cretaceous</span></a>.
+
+            <br><br>
+            Dinosaurs during this time had a variety of diets, but we can generally categorize dinosaurs into <a class="highlight" href="#"><span>carnivores</span></a>,
+            <a class="highlight" href="#"><span>herbivores</span></a>, or <a class="highlight" href="#"><span>omnivores</span></a>.
+
+            <br><br>
+            The main goal of this visualization is to be able to see the correlation between dinosaur diet type and country with relation to the Mesozoic time period.
+            These correlations are simple and easy to understand, so sit back, relax, and have fun exploring!
+          </p>
+          <div class="container" style = "margin-top:5%;text-align:center">
+          <div class="row">
+            <div class="col-sm">
+              <button class="btn open-modal" style = "font-family: Bitter;" id="open-modal">Triassic</button>
+            </div>
+            <div class="col-sm">
+              <button class="btn open-modal" style = "font-family: Bitter;"  id="open-modal">Jurassic</button>
+            </div>
+            <div class="col-sm">
+              <button class="btn open-modal" style = "font-family: Bitter;"  id="open-modal">Cretaceous</button>
+            </div>
+          </div>
+        </div>
+
+        <div style = "padding-top:5%">Switch modes: color blind-friendly dyslexia-friendly</div>
+        </div>
+        <!-- <span id="close-modal" class="close-modal">&times;</span> -->
+      </div>
+    </div>
+
+
+    <p style = "font-size:2em;font-family:Julius Sans One">Cretaceous period</p>
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
+
+      <!-- Modal content -->
+      <div style = "width:900px;margin:auto;">
+        <div id = "continentToggle"></div>
+      <div class="modal-content" style = "background-color:#C6BDC1;width:900px;height:600px;position:relative;">
+        <span class="close">&times;</span>
+        <div id = "modalHeader">
+          <p id = "modaltext"></p>
+        </div>
+
+
+        <div class="container">
+          <div class="type">
+            <span id = "all" class="col-lg-auto button" onclick = "getCountryName('all')">
+              All
+            </span>
+            <span id = "carnivores" class="col-lg-auto button" onclick = "getCountryName('carnivore')">
+              Carnivores
+            </span>
+            <span id = "herbivores" class="col-lg-auto button" onclick = "getCountryName('herbivore')">
+              Herbivores
+            </span>
+            <span id = "omnivores" class="col-lg-auto button" onclick = "getCountryName('omnivore')">
+              Omnivores
+            </span>
+            <span id = "other" class="col-lg-auto button" onclick = "getCountryName('other')">
+              Other
+            </span>
+          </div>
+        </div>
+
+        <div class = "line"></div>
+        <div id = "results"></div>
+      </div>
+      </div>
+    </div>
+
+    <div onclick="getCountryName('all')" class="d3-geomap" id="map"></div>
+
+    <!-- <div onclick="color()">hiiii</div> -->
+
+  </body>
+  <script src="https://unpkg.com/d3@5.16.0/dist/d3.min.js"></script>
+  <script src="https://unpkg.com/topojson@3/dist/topojson.min.js"></script>
+  <script src="d3-geomap/d3-geomap.min.js"></script>
+  <script>
+    var map = d3.geomap()
+    .geofile('https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/topojson/world/countries.json')
+    .draw(d3.select('#map'));
+</script>
+
+
+    <script>
+    const carnivore = [];
+    const herbivore = [];
+    const omnivore = [];
+    const other = [];
+    const carnivore_codes = [];
+    const herbivore_codes = [];
+    const omnivore_codes = [];
+    const other_codes = [];
+
+
+    window.onload = function color() {
+
+        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/cretaceous_group.json", function(json) {
+            for (var i = 0; i < json.length; i++){
+              var obj = json[i];
+              if (obj["Diet"] === "carnivore") {
+                carnivore.push(obj["Country"]);
+              } else if (obj["Diet"] === "herbivore") {
+                herbivore.push(obj["Country"]);
+              } else if (obj["Diet"] === "omnivore") {
+                omnivore.push(obj["Country"]);
+              } else {
+                other.push(obj["Country"]);
+              }
+            }
+          });
+
+        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/codes.json", function(json) {
+            for (var i = 0; i < json.length; i++){
+              var obj = json[i];
+
+              for (var j = 0; j < carnivore.length; j++){
+                if (obj.Country === carnivore[j]) {
+                  // console.log(obj["Alpha-3 code"]);
+                  carnivore_codes.push(obj["Alpha-3 code"]);
+                }
+              }
+
+              for (var j = 0; j < herbivore.length; j++){
+                if (obj.Country === herbivore[j]) {
+                  // console.log(obj["Alpha-3 code"]);
+                  herbivore_codes.push(obj["Alpha-3 code"]);
+                }
+              }
+
+              for (var j = 0; j < omnivore.length; j++){
+                if (obj.Country === omnivore[j]) {
+                  // console.log(obj["Alpha-3 code"]);
+                  omnivore_codes.push(obj["Alpha-3 code"]);
+                }
+              }
+
+              for (var j = 0; j < other.length; j++){
+                if (obj.Country === other[j]) {
+                  // console.log(obj["Alpha-3 code"]);
+                  other_codes.push(obj["Alpha-3 code"]);
+                }
+              }
+            }
+
+            for (var i = 0; i < carnivore_codes.length; i++){
+              var cols = document.getElementsByClassName("unit-" + carnivore_codes[i]);
+              for(var j = 0; j < cols.length; j++) {
+                  console.log(cols[j]);
+                  cols[j].style.fill = "#eb4034";
+              }
+            }
+
+            for (var i = 0; i < herbivore_codes.length; i++){
+              var cols = document.getElementsByClassName("unit-" + herbivore_codes[i]);
+              for(var j = 0; j < cols.length; j++) {
+                  console.log(cols[j]);
+                  cols[j].style.fill = "#85e688";
+              }
+            }
+
+          });
+
+
+
+      }
+    </script>
+
+    <script>
+      var modal = document.getElementById("myModal");
+      var span = document.getElementsByClassName("close")[0];
+      var countryName;
+      var continentName;
+      var country = true;
+
+
+
+
+
+
+
+      function getCountryName(type) {
+
+        var x = document.getElementsByClassName("active");
+          countryName = x[0].innerHTML.replace('<title>', '');
+          countryName = countryName.replace('</title>', '');
+          modal.style.display = "block";
+          document.getElementById("modaltext").innerHTML = countryName;
+          getDinosaurs(type);
+          getContinent(countryName);
+      }
+
+      function getContinent(countryName) {
+        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Cretaceous.json", function(json) {
+        for (var i = 0; i < json.length; i++){
+          var obj = json[i];
+          if (obj.Country == countryName) {
+            continentName = obj.Continent;
+            document.getElementById("continentToggle").innerHTML = "Switch to all dinosaurs from " + obj.Continent + " <i style = \"margin-left:2%\" class=\"fas fa-sync\" onclick = \"switchToContinent('" + obj.Continent + "')\"></i>";
+          }
+        }
+
+        });
+      }
+
+      function switchToContinent(continent) {
+        document.getElementById("modaltext").innerHTML = continentName;
+        country = false;
+        document.getElementById("continentToggle").innerHTML = "Switch to all dinosaurs from " + countryName + " <i style = \"margin-left:2%\" class=\"fas fa-sync\" onclick = \"switchToCountry('" + countryName + "')\"></i>";
+        document.getElementById("results").innerHTML = '';
+
+        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Cretaceous.json", function(json) {
+            for (var i = 0; i < json.length; i++){
+              var obj = json[i];
+              if (obj.Continent == continentName) {
+                var z = document.createElement('p'); // is a node
+                z.innerHTML = obj.Name + "-" + obj.Diet;
+                document.getElementById("results").appendChild(z);
+              }
+            }
+          });
+      }
+
+      function switchToCountry(countryName) {
+        document.getElementById("modaltext").innerHTML = countryName;
+        country = false;
+        document.getElementById("continentToggle").innerHTML = "Switch to all dinosaurs from " + continentName + " <i style = \"margin-left:2%\" class=\"fas fa-sync\" onclick = \"switchToContinent('" + continentName + "')\"></i>";
+        document.getElementById("results").innerHTML = '';
+
+        $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Cretaceous.json", function(json) {
+            for (var i = 0; i < json.length; i++){
+              var obj = json[i];
+              if (obj.Country == countryName) {
+                var z = document.createElement('p'); // is a node
+                z.innerHTML = obj.Name + "-" + obj.Diet;
+                document.getElementById("results").appendChild(z);
+              }
+            }
+          });
+      }
+
+        function getDinosaurs(type) {
+          document.getElementById("results").innerHTML = '';
+          console.log(type);
+          $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/Cretaceous.json", function(json) {
+
+            if (country) {
+              if (type == 'all') {
+                for (var i = 0; i < json.length; i++){
+                  var obj = json[i];
+                  if (obj.Country == countryName) {
+                    var z = document.createElement('p'); // is a node
+                    z.innerHTML = obj.Name + "-" + obj.Diet;
+                    document.getElementById("results").appendChild(z);
+                  }
+                }
+              } else {
+                  for (var i = 0; i < json.length; i++){
+                    var obj = json[i];
+                    if (obj.Diet == type) {
+                      var obj = json[i];
+                      if (obj.Country == countryName) {
+                        var z = document.createElement('p'); // is a node
+                        z.innerHTML = obj.Name + "-" + obj.Diet;
+                        document.getElementById("results").appendChild(z);
+                      }
+                    }
+                  }
+              }
+            } else {
+              if (type == 'all') {
+                for (var i = 0; i < json.length; i++){
+                  var obj = json[i];
+                  if (obj.Continent == continentName) {
+                    var z = document.createElement('p'); // is a node
+                    z.innerHTML = obj.Name + "-" + obj.Diet;
+                    document.getElementById("results").appendChild(z);
+                  }
+                }
+              } else {
+                  for (var i = 0; i < json.length; i++){
+                    var obj = json[i];
+                    if (obj.Diet == type) {
+                      var obj = json[i];
+                      if (obj.Continent == continentName) {
+                        var z = document.createElement('p'); // is a node
+                        z.innerHTML = obj.Name + "-" + obj.Diet;
+                        document.getElementById("results").appendChild(z);
+                      }
+                    }
+                  }
+              }
+            }
+
+
+
+          });
+        }
+
+        // When the user clicks on <span> (x), close the modal
+        span.onclick = function() {
+          modal.style.display = "none";
+          country = true;
+        }
+
+        // When the user clicks anywhere outside of the modal, close it
+        window.onclick = function(event) {
+          if (event.target == modal) {
+            modal.style.display = "none";
+            country = true;
+          }
+        }
+    </script>
+
+    <script>
+    const btnOpenModal = document.getElementById("open-modal");
+    const btnCloseModal = document.getElementById("close-modal");
+    const modalElm = document.getElementById("modal");
+
+    btnOpenModal.addEventListener("click", function () {
+      modalElm.classList.add("open");
+    });
+
+    btnCloseModal.addEventListener("click", function () {
+      modalElm.classList.remove("open");
+    });
+
+    </script>
+
+
+
+
+
+    <script>
+    function switchClass(i) {
+   var lis = $('#home-news > div');
+   lis.eq(i).removeClass('home_header_on');
+   lis.eq(i).removeClass('home_header_out');
+    lis.eq(i = ++i % lis.length).addClass('home_header_on');
+    lis.eq(i = ++i % lis.length).addClass('home_header_out');
+
+}
+
+$(window).load(function() {
+   switchClass(-1);
+});
+    </script>
+</html>

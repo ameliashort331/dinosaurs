@@ -8,7 +8,7 @@
 
 .d3-geomap .unit {
   cursor: pointer;
-  fill: #ccc;
+  fill: #262626;
   stroke: #000;
   stroke-width: .4px; }
 
@@ -70,7 +70,7 @@
 
 .line {
   position: absolute;
-  width: 640;
+  width: 860;
   height: 0px;
   top: 180px;
   border: 1px solid #E3DCDF;
@@ -94,15 +94,16 @@
   font-family: Bitter;
   font-style: normal;
   font-weight: normal;
-  font-size: 18px;
+  font-size: 24px;
   line-height: 26px;
   text-align: center;
   display: inline-block;
-  width: 600;
+  width: 100%;
 }
 
 #modaltext {
   text-align: center;
+  padding-top: 18px;
   margin: auto;
   font-family: Bitter;
   font-style: normal;

@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <link rel="stylesheet" href="index.css">
 
-  <link href="d3-geomap/d3-geomap.css" rel="stylesheet">
+  <link href="d3-geomap/d3-geomap-cb.css" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="jquery-csv.js"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -43,7 +43,7 @@
             <button class="btn open-modal" style = "font-family: Bitter;" id="open-modal" onclick="color_triassic()">Triassic</button>
           </div>
           <div class="col-sm">
-            <button class="btn open-modal" style = "font-family: Bitter;"  id="open-modal" onclick="color_jurassic()">Jurassic</button>
+            <button class="btn open-modal" style = "font-family: Bitter;"  id="open-modal">Jurassic</button>
           </div>
           <div class="col-sm">
             <button class="btn open-modal" style = "font-family: Bitter;"  id="open-modal" onclick="color_cretaceous()">Cretaceous</button>
@@ -56,8 +56,8 @@
   </div>
 </div>
 <!-- The Modal -->
-<div id="myModal" class="modal" style = "padding-top:0">
-  <div class="container" style = "padding-left:0;margin-left:revert;">
+<div id="myModal" class="modal">
+  <div class="container">
     <div class="row">
       <div class="col">
         <div id='chartcontainer' style = "font-family:Bitter">
@@ -66,9 +66,9 @@
       </div>
       <div class="col">
         <!-- Modal content -->
-        <div style = "width:350px;margin:auto;padding-top:20%">
+        <div style = "width:700px;margin:auto;">
           <div id = "continentToggle"></div>
-          <div class="modal-content" style = "background-color:#fff;width:680;height:600px;position:relative;padding-top:10%">
+          <div class="modal-content" style = "background-color:#fff;width:900px;height:600px;position:relative;">
             <span class="close">&times;</span>
             <div id = "modalHeader">
               <p id = "modaltext"></p>
@@ -140,14 +140,14 @@
       </a>
     </li>
 
-    <li onclick="color_jurassic()" class="list-item" data-tooltip="Codepen">
+    <li class="list-item" data-tooltip="Codepen">
       <a href="#">
         <i class="fab fa-codepen " style = "visibility:hidden"></i>
         <span class="text">Jurassic</span>
       </a>
     </li>
 
-    <li onclick="color_cretaceous()" class="list-item" data-tooltip="Codepen">
+    <li class="list-item" data-tooltip="Codepen">
       <a href="#">
         <i class="fab fa-codepen " style = "visibility:hidden"></i>
         <span class="text">Cretaceous</span>
@@ -179,7 +179,6 @@
 <div id = "main" style="box-shadow: 0px 10px 50px 5px rgba(0, 0, 0, 0.5);background-color:white;padding-top:2%;margin-left:10%;padding-bottom:5%;margin-top:2%;border-radius: 25px;width:80%;min-height:90%;margin-right:3%">
   <div id = "periodtitle" style = "font-family:Bitter;font-size:50px;padding-left:3%;padding-bottom:0.5%;">
   </div>
-
   <ul class="no-bullets" style="font-family:Bitter;position:absolute;margin-left:5%;margin-top:10%">
   <li>
   	<span class="dot-c"></span> Carnivore
@@ -199,6 +198,7 @@
 </ul>
   <div style = "text-align:center;height:600" onclick="getCountryName('all')" class="d3-geomap" id="map"></div>
 </div>
+<!-- <div>hiiii</div> -->
 
 </body>
 <script src="https://unpkg.com/d3@5.16.0/dist/d3.min.js"></script>
@@ -227,16 +227,6 @@ function color_cretaceous() {
   document.getElementById("modal").style.display = "none";
   document.getElementById("sidebar").style.display = "block";
   // document.getElementById("map").style.backgroundColor = "#defdff";
-  $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/codes.json", function(json) {
-    for (var i = 0; i < json.length; i++){
-      var obj = json[i];
-      var cols = document.getElementsByClassName("unit-" + obj["Alpha-3 code"]);
-      for(var j = 0; j < cols.length; j++) {
-        cols[j].style.fill = "#ccc";
-      }
-    }
-
-  });
 
   $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/cretaceous_group.json", function(json) {
     for (var i = 0; i < json.length; i++){
@@ -285,14 +275,14 @@ function color_cretaceous() {
     for (var i = 0; i < carnivore_codes.length; i++){
       var cols = document.getElementsByClassName("unit-" + carnivore_codes[i]);
       for(var j = 0; j < cols.length; j++) {
-        cols[j].style.fill = "#eb4034";
+        cols[j].style.fill = "#e8f086";
       }
     }
 
     for (var i = 0; i < herbivore_codes.length; i++){
       var cols = document.getElementsByClassName("unit-" + herbivore_codes[i]);
       for(var j = 0; j < cols.length; j++) {
-        cols[j].style.fill = "#85e688";
+        cols[j].style.fill = "#6fde6e";
       }
     }
 
@@ -303,93 +293,7 @@ function color_cretaceous() {
 }
 
 
-function color_jurassic() {
-  document.getElementById("periodtitle").innerHTML = "Jurassic Period";
-  const carnivore = [];
-  const herbivore = [];
-  const omnivore = [];
-  const other = [];
-  const carnivore_codes = [];
-  const herbivore_codes = [];
-  const omnivore_codes = [];
-  const other_codes = [];
-  document.getElementById("modal").style.display = "none";
-  document.getElementById("sidebar").style.display = "block";
-  // document.getElementById("map").style.backgroundColor = "#defdff";
-  $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/codes.json", function(json) {
-    for (var i = 0; i < json.length; i++){
-      var obj = json[i];
-      var cols = document.getElementsByClassName("unit-" + obj["Alpha-3 code"]);
-      for(var j = 0; j < cols.length; j++) {
-        cols[j].style.fill = "#ccc";
-      }
-    }
 
-  });
-
-  $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/jurassic_group.json", function(json) {
-    for (var i = 0; i < json.length; i++){
-      var obj = json[i];
-      if (obj["Diet"] === "carnivore") {
-        carnivore.push(obj["Country"]);
-      } else if (obj["Diet"] === "herbivore") {
-        herbivore.push(obj["Country"]);
-      } else if (obj["Diet"] === "omnivore") {
-        omnivore.push(obj["Country"]);
-      } else {
-        other.push(obj["Country"]);
-      }
-    }
-  });
-
-  $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/codes.json", function(json) {
-    for (var i = 0; i < json.length; i++){
-      var obj = json[i];
-
-      for (var j = 0; j < carnivore.length; j++){
-        if (obj.Country === carnivore[j]) {
-          carnivore_codes.push(obj["Alpha-3 code"]);
-        }
-      }
-
-      for (var j = 0; j < herbivore.length; j++){
-        if (obj.Country === herbivore[j]) {
-          herbivore_codes.push(obj["Alpha-3 code"]);
-        }
-      }
-
-      for (var j = 0; j < omnivore.length; j++){
-        if (obj.Country === omnivore[j]) {
-          omnivore_codes.push(obj["Alpha-3 code"]);
-        }
-      }
-
-      for (var j = 0; j < other.length; j++){
-        if (obj.Country === other[j]) {
-          other_codes.push(obj["Alpha-3 code"]);
-        }
-      }
-    }
-
-    for (var i = 0; i < carnivore_codes.length; i++){
-      var cols = document.getElementsByClassName("unit-" + carnivore_codes[i]);
-      for(var j = 0; j < cols.length; j++) {
-        cols[j].style.fill = "#eb4034";
-      }
-    }
-
-    for (var i = 0; i < herbivore_codes.length; i++){
-      var cols = document.getElementsByClassName("unit-" + herbivore_codes[i]);
-      for(var j = 0; j < cols.length; j++) {
-        cols[j].style.fill = "#85e688";
-      }
-    }
-
-  });
-
-
-
-}
 
 function color_triassic() {
   document.getElementById("periodtitle").innerHTML = "Triassic Period";
@@ -406,10 +310,9 @@ function color_triassic() {
   // document.getElementById("map").style.backgroundColor = "#defdff";
   $.getJSON("https://raw.githubusercontent.com/ameliashort331/dinosaurs/main/codes.json", function(json) {
     for (var i = 0; i < json.length; i++){
-      var obj = json[i];
-      var cols = document.getElementsByClassName("unit-" + obj["Alpha-3 code"]);
+      var cols = document.getElementsByClassName("unit-" + json[i]);
       for(var j = 0; j < cols.length; j++) {
-        cols[j].style.fill = "#ccc";
+        cols[j].style.fill = "#262626";
       }
     }
 
@@ -462,14 +365,14 @@ function color_triassic() {
     for (var i = 0; i < carnivore_codes.length; i++){
       var cols = document.getElementsByClassName("unit-" + carnivore_codes[i]);
       for(var j = 0; j < cols.length; j++) {
-        cols[j].style.fill = "#eb4034";
+        cols[j].style.fill = "#e8f086";
       }
     }
 
     for (var i = 0; i < herbivore_codes.length; i++){
       var cols = document.getElementsByClassName("unit-" + herbivore_codes[i]);
       for(var j = 0; j < cols.length; j++) {
-        cols[j].style.fill = "#85e688";
+        cols[j].style.fill = "#6fde6e";
       }
     }
 
@@ -571,8 +474,19 @@ function getDinosaurs(type) {
           var obj = json[i];
           if (obj.Country == countryName) {
             var z = document.createElement('p'); // is a node
-            z.className = "dinoselect";
-            z.setAttribute("id", obj.Name);
+            z.className = "dinoselect-" + obj.Name;
+
+            z.onclick = function () {
+              if(document.getElementById("dino")!=null) {
+                document.getElementById("dino").innerHTML = "";
+                $("#dino").attr("id", "dino-select");
+                z.style.fontWeight = "bold";
+              } else {
+                $("#dino-select").attr("id", "dino-select-2");
+                z.style.fontWeight = "bold";
+              }
+
+            };
             z.innerHTML = obj.Name + "-" + obj.Diet;
             document.getElementById("results").appendChild(z);
           }
@@ -584,8 +498,10 @@ function getDinosaurs(type) {
             var obj = json[i];
             if (obj.Country == countryName) {
               var z = document.createElement('p'); // is a node
-              z.className = "dinoselect";
-              z.setAttribute("id", obj.Name);
+              z.className = "dinoselect-" + obj.Name;
+              z.onclick = function () {
+              $("#dino").attr("id", "dino-select");
+              };
               z.innerHTML = obj.Name + "-" + obj.Diet;
               document.getElementById("results").appendChild(z);
             }
@@ -598,8 +514,10 @@ function getDinosaurs(type) {
           var obj = json[i];
           if (obj.Continent == continentName) {
             var z = document.createElement('p'); // is a node
-            z.className = "dinoselect";
-            z.setAttribute("id", obj.Name);
+            z.className = "dinoselect-" + obj.Name;
+            z.onclick = function () {
+            $("#dino").attr("id", "dino-select");
+            };
             z.innerHTML = obj.Name + "-" + obj.Diet;
             document.getElementById("results").appendChild(z);
           }
@@ -611,8 +529,10 @@ function getDinosaurs(type) {
             var obj = json[i];
             if (obj.Continent == continentName) {
               var z = document.createElement('p'); // is a node
-              z.className = "dinoselect";
-              z.setAttribute("id", obj.Name);
+              z.className = "dinoselect-" + obj.Name;
+              z.onclick = function () {
+              $("#dino").attr("id", "dino-select");
+              };
               z.innerHTML = obj.Name + "-" + obj.Diet;
               document.getElementById("results").appendChild(z);
             }
@@ -633,13 +553,10 @@ span.onclick = function() {
 }
 
 // When the user clicks anywhere outside of the modal, close it
-//TODO reset image
 window.onclick = function(event) {
   if (event.target == modal) {
     modal.style.display = "none";
     country = true;
-    $("#dino").css("background-image", "none");
-    document.getElementById("dino").innerHTML = "No dinosaur selected";
   }
 }
 </script>
@@ -1028,29 +945,8 @@ $('.dinoselect').click(function() {
     .attr('y', 40)
     .attr('text-anchor', 'middle')
     .text('China')
+
+
   }
-</script>
-
-<script>
-$(document).on('click', '.dinoselect', function() {
-    var url = "https:\/\/en.wikipedia.org/w/api.php?action=query&prop=pageimages&titles=" + $(this).attr("id") + "&pithumbsize=500&format=json&origin=*";
-    var value;
-    $.getJSON(url, function(json) {
-      for (var key in json['query']['pages']) {
-          value = key;
-      }
-
-
-      document.getElementById("dino").innerHTML = "";
-      if (json['query']['pages'][value]['thumbnail']) {
-        var picUrl = json['query']['pages'][value]['thumbnail']['source'];
-        document.getElementById("dino").style.backgroundImage = "url(" + picUrl + ")";
-      } else {
-        document.getElementById("dino").innerHTML = "No picture available.";
-        $("#dino").css("background-image", "none");
-      }
-
-    });
-});
 </script>
 </html>
