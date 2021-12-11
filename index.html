@@ -491,6 +491,8 @@ let country = true;
 //THIS IS WHERE THE MODAL OPENS
 //TODO add continent
 function getCountryName(type) {
+  document.getElementById("dino").innerHTML = "No dinosaur selected";
+    $("#dino").css("background-image", "none");
   console.log("country is " + country);
   var x = document.getElementsByClassName("active");
   countryName = x[0].innerHTML.replace('<title>', '');
